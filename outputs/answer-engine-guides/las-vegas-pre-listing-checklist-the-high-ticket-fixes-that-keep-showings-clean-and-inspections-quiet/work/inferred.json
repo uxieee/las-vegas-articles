@@ -1,0 +1,32 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Pre-Listing Checklist: The High-Ticket Fixes That Keep Showings Clean and Inspections Quiet",
+  "excerpt": "Las Vegas sits on shallow, well-drained, loamy soils with a petrocalcic (caliche) layer, so small movement can show up as door drift, corner cracks, and fence/gate alignment\u2014exactly the stuff buyers notice the second they touch anything. Then the climate piles on: triple-digit heat + UV cooks caulk/paint and opens micro-gaps, and monsoon storms can dump water fast enough to expose gutter/discharge problems in one go. Seasonally, we see \u201cfast flips\u201d fail because heat cycling telegraphs patches back through\u2014so the durable approach is reinforce + seal/prime + blend, not just cosmetic dab-and-go. Material stress shows up as sticking doors, ghosted patches, wavy trim lines, and exterior staining, and most of the parts are easy to source around town (fasteners, sealants, hangers, patch materials)\u2014the time is in doing it in the right order.",
+  "faq_pairs": [
+    {
+      "question": "What fixes move the needle most for showings?",
+      "answer": "Doors that close clean, consistent wall finishes (no patch halos), and exterior water control (no stains/splash-back lines)."
+    },
+    {
+      "question": "Why do patches \u201cshow\u201d so badly in Vegas?",
+      "answer": "Heat cycling and strong sunlight make texture/prime mismatches obvious\u2014especially down long hallways."
+    },
+    {
+      "question": "What\u2019s the \\#1 inspection headache here?",
+      "answer": "Water paths that *look* minor\u2014gutter overflow, discharge too close to the slab, or gaps at trim\u2014because monsoon bursts expose them fast."
+    },
+    {
+      "question": "How do you keep a pre-list scope from ballooning?",
+      "answer": "Bundle by system (water control, alignment, finishes), set clear boundaries, and plan a second \u201cwalk-through pass\u201d at the end."
+    },
+    {
+      "question": "What\u2019s the most common \u201cVegas tell\u201d buyers notice?",
+      "answer": "Doors/gates that don\u2019t latch smoothly and exterior staining\u2014little function problems that suggest bigger ones."
+    }
+  ],
+  "markdown_tables": [
+    "| High-ticket pre-listing package (Las Vegas) | What it usually includes | Typical total |\n| ----- | ----- | ----- |\n| **Day-1 \u201cShow Ready\u201d punch list** | doors tuned, caulk resets, hardware, quick fixes | $1,500\u2013$4,000 |\n| **Multi-room wall/ceiling finish reset** | drywall/plaster repair + texture/prime blend | $2,000\u2013$8,000 |\n| **Exterior water-control bundle** | gutters/discharge, splash-back fixes, reseals | $1,200\u2013$6,500 |\n| **Exterior trim/rot + paint-ready prep** | replace soft sections, prime/seal, clean lines | $2,500\u2013$12,000 |\n| **Fence/gate \u201cfirst impression\u201d rebuild** | straighten, rebuild sections, gate alignment | $1,500\u2013$10,000 |\n| **Whole-home pre-list (1\u20133 days)** | bundled systems work + second-pass punch | $4,500\u2013$18,000 |"
+  ]
+}

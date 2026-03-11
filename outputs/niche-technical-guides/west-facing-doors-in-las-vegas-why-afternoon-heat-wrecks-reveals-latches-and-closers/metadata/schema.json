@@ -1,0 +1,130 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "West-Facing Doors in Las Vegas: Why Afternoon Heat Wrecks Reveals, Latches, and Closers",
+    "description": "We see the same pattern over and over: the door is \u201cfine\u201d in the morning, then sticky by late afternoon, then a little loose again after dark",
+    "abstract": "We see the same pattern over and over: the door is \u201cfine\u201d in the morning, then sticky by late afternoon, then a little loose again after dark. That is not random. Different materials move at different rates",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/dc74b1aa-518f-454d-88cf-dbbc984904b4.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/cb4a65e5-d387-4bc4-9ef4-7e8fbb2e0765.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers",
+    "datePublished": "2026-02-28",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "door repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "desert heat expansion"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "desert heat expansion"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why is the door only bad later in the day?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because the warm-season thermal load changes as the sun moves; afternoon exposure can push a marginal reveal into a binding reveal."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is planing the door the right move?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sometimes in a very limited way, but on better repairs the real target is the geometry and hardware load path."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this high-ticket?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When the issue includes door alignment, hardware, seals, closer behavior, and finish cleanup instead of one simple adjustment."
+        }
+      }
+    ]
+  }
+]

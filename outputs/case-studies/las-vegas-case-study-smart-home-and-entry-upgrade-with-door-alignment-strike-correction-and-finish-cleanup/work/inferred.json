@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Case Study: Smart Home and Entry Upgrade with Door Alignment, Strike Correction, and Finish Cleanup",
+  "excerpt": "We run into this a lot in Las Vegas. People want upgraded locks, cameras, and entry hardware, but the door already rubs a little, the strike is barely catching, and the trim or seal details are tired from heat and exposure. If you skip that and mount the new gear anyway, the system acts flaky and everybody blames the electronics. On this project, the smart-home scope got bundled with door tuning, better anchoring, weather detailing, and some finish cleanup around the entry so the whole setup felt intentional. That\u2019s what made it a real project instead of just another gadget install.",
+  "faq_pairs": [
+    {
+      "question": "Why does a smart lock care if the door is slightly off?",
+      "answer": "Because electronic hardware still depends on a clean latch line and consistent alignment to work smoothly."
+    },
+    {
+      "question": "Why bundle door tuning with a smart install?",
+      "answer": "It prevents the new hardware from inheriting all the old entry problems."
+    },
+    {
+      "question": "What makes this a high-ticket scope?",
+      "answer": "When the work includes door correction, finish cleanup, sealing, and multiple entry devices together."
+    }
+  ],
+  "markdown_tables": [
+    "| Case study snapshot | What was going on | How the scope was handled |\n| ----- | ----- | ----- |\n| Entry door | Misalignment and inconsistent latch behavior | Tuned geometry before installing devices |\n| Smart lock install | Hardware needed a clean, true closing action | Installed after strike/reveal correction |\n| Video doorbell | Mounting and finish detail needed cleanup | Mounted cleanly with better surrounding details |\n| Weather/seal issues | Heat-tired seals and rough trim transitions | Corrected entry edge details during install |\n| Homeowner goal | Tech that works reliably and looks finished | Scoped as one entry upgrade package |"
+  ]
+}

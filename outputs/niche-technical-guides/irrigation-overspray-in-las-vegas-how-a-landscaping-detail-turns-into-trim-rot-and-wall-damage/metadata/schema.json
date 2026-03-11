@@ -1,0 +1,122 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Irrigation Overspray in Las Vegas: How a Landscaping Detail Turns Into Trim Rot and Wall Damage",
+    "description": "We see this one a lot in neighborhoods where the yard looks tidy and the house still has soft trim corners, bubbling paint near the garage leg",
+    "abstract": "We see this one a lot in neighborhoods where the yard looks tidy and the house still has soft trim corners, bubbling paint near the garage leg, or one exterior casing that keeps going bad. The culprit is often not rain at all",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/f6656511-8ada-4234-a105-6ba464743217.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/bcaf4732-d8f3-446e-8152-f8072896d0b2.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage",
+    "datePublished": "2026-02-28",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "trim repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "technical repair guidance"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "technical repair guidance"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is overspray really that big a deal?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The City\u2019s landscape guidance explicitly addresses overspray, runoff, and setback from buildings because those patterns can damage walls and structures."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is this common in a desert city?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because irrigation is frequent enough to create repeated wetting even where rainfall is low. LVVWD also actively regulates watering schedules and water-waste practices."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this a bigger project?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When the repair has to include damaged trim, finish failure, and the irrigation behavior feeding the problem."
+        }
+      }
+    ]
+  }
+]

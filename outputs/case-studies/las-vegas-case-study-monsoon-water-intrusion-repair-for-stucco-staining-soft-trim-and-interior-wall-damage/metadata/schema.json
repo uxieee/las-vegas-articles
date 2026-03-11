@@ -1,0 +1,99 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Case Study: Monsoon Water Intrusion Repair for Stucco Staining, Soft Trim, and Interior Wall Damage",
+    "description": "In Las Vegas, that pattern makes sense. The local Las Vegas soil series is shallow, well-drained, and carbonatic/caliche-heavy",
+    "abstract": "In Las Vegas, that pattern makes sense. The local Las Vegas soil series is shallow, well-drained, and carbonatic/caliche-heavy, so heavy rain does not always soak in gently; it can run fast, splash hard",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/a4c01e60-7898-4faa-841a-c08cf9f9a8d5.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/73e1f36f-c735-4b3a-a969-03065c67eac5.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage",
+    "datePublished": "2026-02-24",
+    "articleSection": [
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "trim repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "monsoon damage"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "monsoon damage"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  }
+]

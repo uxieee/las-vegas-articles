@@ -1,0 +1,32 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Fixing Squeaky Floors Las Vegas: How Dry Heat Shrinks Wood and Loosens Fasteners Over Time",
+  "excerpt": "In Las Vegas, the combo of extreme heat, low humidity, and big day/night swings makes wood framing and subfloors expand/contract until fasteners start moving and you get that classic chirp at the same step every time. Even with loamy alluvial soils and caliche layers under many neighborhoods, the bigger squeak driver is usually inside the framing: slight movement plus shrinkage, especially upstairs where joists and subfloor seams do the talking. Seasonally, squeaks often get louder in the driest months (wood shrinks) and change character after monsoon humidity bumps (wood swells a touch, then settles back). Material stress shows up as nail pops, loose subfloor edges, and friction at joist hangers or blocking, so the real fix is re-fastening and stabilizing contact points. Hardware and materials are easy to source locally (construction screws, adhesive, shims, brackets) \u2014 the skill is finding the noise path and locking it down without making the floor feel lumpy.",
+  "faq_pairs": [
+    {
+      "question": "Why do my floors squeak more in certain seasons?",
+      "answer": "Dry months shrink wood and widen tiny gaps; humidity swings can change where pieces rub. Vegas makes that cycle obvious."
+    },
+    {
+      "question": "Is a squeaky floor a structural problem?",
+      "answer": "Usually no \u2014 it\u2019s friction and fastener movement \u2014 but widespread squeaks plus bounce can mean the floor needs tightening, blocking, or better subfloor attachment."
+    },
+    {
+      "question": "Can you fix squeaks without ripping up my flooring?",
+      "answer": "Often, yes. If we can access from below (garage/ceiling) or target seams cleanly, we can do quite a lot without a full demo."
+    },
+    {
+      "question": "Why doesn\u2019t \u201cpowder\u201d or lubricant fixes last?",
+      "answer": "It treats the symptom (friction) but not the cause (movement). The squeak usually returns once the fastener shifts again."
+    },
+    {
+      "question": "What\u2019s the most \u201chigh-ticket\u201d version of this job?",
+      "answer": "whole upstairs or whole-house quieting scope where we map squeaks, re-fastening systematically, add seam support/blocking, then do a second pass after the floor settles."
+    }
+  ],
+  "markdown_tables": [
+    "| High-ticket squeak solution (Las Vegas) | What it usually includes | Typical total |\n| ----- | ----- | ----- |\n| Single-room quieting package | Locate squeaks, re-fastening from above/below, spot stabilization | $600\u2013$1,800 |\n| Multi-room upstairs re-fastening | Systematic screw-down along joists, seam support, adhesive where needed | $1,800\u2013$6,500 |\n| Stair and landing noise reset | Tread/riser tightening, blocking, fastener upgrades | $800\u2013$3,500 |\n| Subfloor seam stabilization (targeted) | Add blocking, re-secure seams, reduce rub points | $900\u2013$4,500 |\n| Whole-floor \u201cquiet house\u201d scope (2\u20133 days) | Mapping, structural tightening, repeat pass, finish touch-ups as needed | $4,500\u2013$15,000 |\n| Post-repair finish cleanup allowance | Minor trim/caulk touch, small patch/paint-ready areas | $300\u2013$1,500 |"
+  ]
+}

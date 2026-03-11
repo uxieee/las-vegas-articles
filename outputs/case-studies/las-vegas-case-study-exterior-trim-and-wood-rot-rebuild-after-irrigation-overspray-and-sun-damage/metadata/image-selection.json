@@ -1,0 +1,19 @@
+{
+  "mode": "manual",
+  "hero_image": {
+    "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Christine Florie_job_9b1c704be06e47e993cc21a080d5d67c_1.jpg"
+  },
+  "support_image": {
+    "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_15.jpg"
+  },
+  "rationale": {
+    "hero_image": [
+      "vision-ranked topic-first selection favors the clearest repair-context fit for this article",
+      "hero image now reflects the visible problem or assembly the guide is actually about"
+    ],
+    "support_image": [
+      "support image was chosen as the strongest complementary project photo for the same topic",
+      "the pair avoids generic skyline filler and keeps the article grounded in real repair visuals"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Licensed vs. Unlicensed Handyman in : When a Las Vegas \u201cBig Job\u201d Needs a Real License",
+  "excerpt": "Out here in the valley, \u201csmall\u201d issues stack into big scopes fast\u2014doors drifting, cracks reappearing, trim opening up\u2014partly because the local ground includes loamy, carbonatic soils with a petrocalcic (caliche) layer, which can show up as tiny movement that stresses finishes. Then Las Vegas weather does its thing: triple-digit heat and big daily swings work joints and sealants, and monsoon bursts can reveal water paths in a hurry. For higher-ticket packages (multi-room repairs, exterior rebuild bundles, bigger turnovers), we treat licensing as part of the \u201cjob spec,\u201d because Nevada is clear that unlicensed contracting can escalate from misdemeanor to felony on repeat offenses. (This page type is one of your Phase 2 Answer Engine Guides from the Matrix.)",
+  "faq_pairs": [
+    {
+      "question": "If we\u2019re targeting high-ticket work, what\u2019s the cleanest rule to remember?",
+      "answer": "Nevada\u2019s Contractors Board describes an exemption for repair/maintenance work **valued at less than $1,000** (labor + materials) with important exceptions\u2014high-ticket scopes typically don\u2019t fit that box."
+    },
+    {
+      "question": "Does \u201cno permit needed\u201d automatically mean \u201chandyman ok\u201d?",
+      "answer": "Not automatically. Permit status matters a lot, but the Board also frames the exemption around **project value and conditions**, so scope and category still matter."
+    },
+    {
+      "question": "What\u2019s the real risk with unlicensed contracting on bigger jobs?",
+      "answer": "Nevada spells out escalating penalties for unlicensed contracting (including repeat-offense escalation)."
+    },
+    {
+      "question": "Why do Vegas projects \u201cgrow legs\u201d so often?",
+      "answer": "Caliche-layer soils can show up as small alignment drift, and heat cycling beats up caulk/fasteners\u2014so one visible symptom can hide several connected fixes."
+    },
+    {
+      "question": "What should be tight and clear on a high-ticket scope?",
+      "answer": "Exact inclusions/exclusions, material specs, how change-orders are handled, and what happens if hidden damage shows up (water paths, rot behind trim, etc.)."
+    }
+  ],
+  "markdown_tables": [
+    "| Scenario (Las Vegas) | Usually fine as handyman-style work | What commonly pushes it into \u201clicensed contractor\u201d |\n| ----- | ----- | ----- |\n| Multi-room drywall + texture blending | Sometimes | Large total scope/value; structural cracks; permit-triggered work |\n| Exterior trim/rot bundle | Sometimes | Rebuild scope expands; water-path materials/labor total |\n| Fence section rebuild + gate rebuild | Sometimes | Multiple post resets, concrete, or project total grows |\n| \u201cWhole-house\u201d punch list (pre-list / turnover) | Often | When bundled scope/value crosses licensing/permit boundaries |\n| Electrical additions/rewires | Rarely | Typically regulated/permit-driven work (trade lane) |\n| Plumbing repairs beyond simple swaps | Rarely | Permit/trade requirements depending on scope |"
+  ]
+}

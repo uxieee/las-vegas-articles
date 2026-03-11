@@ -1,0 +1,99 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Why Doors Stick in Las Vegas: Caliche Ground Shifts + Heat Swells Frames (and What Actually Fixes It)",
+    "description": "Las Vegas homes sit over alluvial soils with caliche layers, and when runoff or irrigation hits unevenly",
+    "abstract": "Las Vegas homes sit over alluvial soils with caliche layers, and when runoff or irrigation hits unevenly, you can get tiny differential movement that shows up first at door frames: rub marks at the latch side, a top corner bind",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/eeb31328-b248-4256-9a46-9bdf2f2ee160.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/83c08531-c25f-46d4-8e4a-4d5be30552d5.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it",
+    "datePublished": "2026-03-03",
+    "articleSection": [
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "door repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "caliche soil movement"
+      },
+      {
+        "@type": "Thing",
+        "name": "desert heat expansion"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "caliche soil movement"
+      },
+      {
+        "@type": "Thing",
+        "name": "desert heat expansion"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  }
+]

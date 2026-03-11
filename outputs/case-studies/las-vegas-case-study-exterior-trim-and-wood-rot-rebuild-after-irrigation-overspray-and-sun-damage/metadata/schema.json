@@ -1,0 +1,130 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage",
+    "description": "Vegas rot is sneaky because everybody assumes dry climate means dry wood. What actually happens is repeated wetting at the same trim ends, garage legs",
+    "abstract": "Vegas rot is sneaky because everybody assumes dry climate means dry wood. What actually happens is repeated wetting at the same trim ends, garage legs, or sill corners",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/f8ecef7f-8994-4126-b0b8-fb03072bb179.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/9300b2b1-e927-482e-8cf3-e1eeffb653da.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage",
+    "datePublished": "2026-02-28",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "wood rot repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "wood-on-steel framing"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "wood-on-steel framing"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How does wood rot happen in a desert city?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Repeated irrigation overspray, splash-back, and failed paint/caulk details can keep small areas wet enough to rot."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you just fill the soft section?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "On higher-ticket projects, that usually doesn\u2019t hold. The bad wood has to be cut back to solid material."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this a bigger job?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Multiple trim zones, rebuild work, sealing, and correcting the moisture source all in one scope."
+        }
+      }
+    ]
+  }
+]

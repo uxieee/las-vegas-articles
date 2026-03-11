@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Case Study: Luxury Punch-List and Finish Correction Before Photos and Showings",
+  "excerpt": "We see this a lot in premium neighborhoods where the details do all the talking. One reveal is off, one patch flashes through the paint, one gate drags, one trim line looks wavy, and suddenly the whole house reads a little tired even though no single issue is dramatic. On this project, the scope had to balance function and finish: doors had to close right, walls had to read flat, trim had to stop looking heat-cooked, and exterior sightlines had to clean up without looking overworked. The high-ticket value was in sequencing the work so the house presented as one clean story instead of ten unrelated repairs. That\u2019s the difference between a punch-list that helps and one that just leaves fresh fingerprints everywhere.",
+  "faq_pairs": [
+    {
+      "question": "Why bundle everything instead of fixing items one by one?",
+      "answer": "Because the house gets evaluated as a whole, and bundled work keeps the finish quality consistent."
+    },
+    {
+      "question": "What usually matters most before listing?",
+      "answer": "Doors, wall finishes, trim details, and exterior water/stain issues that show up in photos."
+    },
+    {
+      "question": "What makes this high-ticket?",
+      "answer": "Multiple rooms, visible finish work, and enough exterior detail work to affect first impression."
+    }
+  ],
+  "markdown_tables": [
+    "| Case study snapshot | What was going on | How the scope was handled |\n| ----- | ----- | ----- |\n| Interior doors | Drift, latch fussiness, uneven reveals | Tuned openings and corrected hardware alignment |\n| Walls and ceilings | Visible patch halos and recurring cracks | Reworked high-visibility finish areas |\n| Trim details | Open joints and tired caulk lines | Rebuilt/sealed key trim transitions |\n| Exterior first-impression items | Gate drag, minor staining, rough details | Bundled curb-appeal corrections |\n| Homeowner goal | Show clean without over-improving the house | Scoped as a one-package pre-listing project |"
+  ]
+}

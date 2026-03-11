@@ -1,0 +1,146 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Fixing Squeaky Floors Las Vegas: How Dry Heat Shrinks Wood and Loosens Fasteners Over Time",
+    "description": "In Las Vegas, the combo of extreme heat, low humidity, and big day/night swings makes wood framing and subfloors expand/contract until fasteners start movi",
+    "abstract": "In Las Vegas, the combo of extreme heat, low humidity, and big day/night swings makes wood framing and subfloors expand/contract until fasteners start moving and you get that classic chirp at the same step every time",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/9078ec9d-085d-4031-b82e-83ca27005f2f.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/413aeaac-5a91-43cb-8822-32ff4735d05f.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time",
+    "datePublished": "2026-02-28",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "floor repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "desert heat expansion"
+      },
+      {
+        "@type": "Thing",
+        "name": "fastener movement"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "desert heat expansion"
+      },
+      {
+        "@type": "Thing",
+        "name": "fastener movement"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why do my floors squeak more in certain seasons?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dry months shrink wood and widen tiny gaps; humidity swings can change where pieces rub. Vegas makes that cycle obvious."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is a squeaky floor a structural problem?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Usually no \u2014 it\u2019s friction and fastener movement \u2014 but widespread squeaks plus bounce can mean the floor needs tightening, blocking, or better subfloor attachment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you fix squeaks without ripping up my flooring?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Often, yes. If we can access from below (garage/ceiling) or target seams cleanly, we can do quite a lot without a full demo."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why doesn\u2019t \u201cpowder\u201d or lubricant fixes last?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It treats the symptom (friction) but not the cause (movement). The squeak usually returns once the fastener shifts again."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What\u2019s the most \u201chigh-ticket\u201d version of this job?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "whole upstairs or whole-house quieting scope where we map squeaks, re-fastening systematically, add seam support/blocking, then do a second pass after the floor settles."
+        }
+      }
+    ]
+  }
+]

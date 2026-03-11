@@ -1,0 +1,47 @@
+{
+  "selected": [
+    {
+      "path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Leslie Bauer_job_0ceae4816e0a4257981ec51c2ea76a6c_12.jpg",
+      "score": 1000,
+      "reasons": [
+        "Agent selected locked hero image",
+        "work bucket",
+        "portrait orientation"
+      ],
+      "width": 1536,
+      "height": 2048,
+      "orientation": "portrait"
+    },
+    {
+      "path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Leslie Bauer_job_0ceae4816e0a4257981ec51c2ea76a6c_9.jpg",
+      "score": 999,
+      "reasons": [
+        "Agent selected locked support image",
+        "work bucket",
+        "portrait orientation"
+      ],
+      "width": 1536,
+      "height": 2048,
+      "orientation": "portrait"
+    }
+  ],
+  "selection": {
+    "mode": "manual",
+    "hero_image": {
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Leslie Bauer_job_0ceae4816e0a4257981ec51c2ea76a6c_12.jpg"
+    },
+    "support_image": {
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Leslie Bauer_job_0ceae4816e0a4257981ec51c2ea76a6c_9.jpg"
+    },
+    "rationale": {
+      "hero_image": [
+        "manual review picked the exposed fence-post footing because it shows the exact post-and-ground failure context this caliche article is about",
+        "the hero now leads with visible structural movement context instead of an unrelated door or sky-heavy scene"
+      ],
+      "support_image": [
+        "manual review picked the second footing and post view to reinforce how gate and fence geometry problems start at the base",
+        "the pair stays on-topic while avoiding repeated-image content inside the article"
+      ]
+    }
+  }
+}

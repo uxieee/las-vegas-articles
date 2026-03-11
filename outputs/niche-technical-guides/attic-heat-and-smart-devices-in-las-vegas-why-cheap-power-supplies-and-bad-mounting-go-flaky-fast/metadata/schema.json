@@ -1,0 +1,130 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Attic Heat and Smart Devices in Las Vegas: Why Cheap Power Supplies and Bad Mounting Go Flaky Fast",
+    "description": "We see this with video doorbells, smart locks, outdoor cameras, garage accessories, and low-voltage gear tied into hot attic or exterior-adjacent runs",
+    "abstract": "We see this with video doorbells, smart locks, outdoor cameras, garage accessories, and low-voltage gear tied into hot attic or exterior-adjacent runs. The homeowner thinks the device is defective because it drops offline",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/cf2b5c77-2b74-4b9a-807a-9523958b4cf7.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/4007c1fa-ebae-49b1-82d7-cee14eaf2c0e.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast",
+    "datePublished": "2026-03-08",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "home repair guide"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "desert heat expansion"
+      },
+      {
+        "@type": "Thing",
+        "name": "technical repair guidance"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "desert heat expansion"
+      },
+      {
+        "@type": "Thing",
+        "name": "technical repair guidance"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is the heat really enough to affect device reliability?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The local climate profile makes clear that summer heat and monsoon-season exposure are meaningful stresses on exterior-facing assemblies."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why bundle device work with door or trim work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because entry geometry, mounting quality, and weather detailing often decide whether the device works consistently."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this high-ticket?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When the project includes multiple devices plus correction of the house-side conditions causing the failures."
+        }
+      }
+    ]
+  }
+]

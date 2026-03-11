@@ -1,0 +1,133 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Handyman Cost Guide (2026): What High-Ticket Projects Really Cost in the Valley",
+    "description": "Out here, the ground is often shallow, well-drained, loamy, carbonatic soil with a petrocalcic (caliche) layer",
+    "abstract": "Out here, the ground is often shallow, well-drained, loamy, carbonatic soil with a petrocalcic (caliche) layer, which is why we see small seasonal movement show up as door alignment drift, hairline cracking",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/8b214f05-bf3e-4e55-9881-791b52471863.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/b56b322d-881a-4357-b5f8-e3e30550c3c6.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley",
+    "datePublished": "2026-03-01",
+    "articleSection": [
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "handyman services"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "homeowner repair guidance"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "homeowner repair guidance"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Las Vegas Handyman Cost Guide (2026)",
+    "serviceType": "Las Vegas Handyman Cost Guide (2026)",
+    "description": "Out here, the ground is often shallow, well-drained, loamy, carbonatic soil with a petrocalcic (caliche) layer, which is why we see small seasonal movement show up as door alignment drift, hairline cracking",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Local Handyman Las Vegas"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "url": "https://localhandyman.com/lasvegas/las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/8b214f05-bf3e-4e55-9881-791b52471863.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/b56b322d-881a-4357-b5f8-e3e30550c3c6.jpg"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "handyman services"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "homeowner repair guidance"
+      }
+    ]
+  }
+]

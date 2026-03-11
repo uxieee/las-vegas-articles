@@ -1,0 +1,47 @@
+{
+  "selected": [
+    {
+      "path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_cbd33495078242edbd8ff4cd43dc01ff_10.jpg",
+      "score": 1000,
+      "reasons": [
+        "Agent selected locked hero image",
+        "work bucket",
+        "portrait orientation"
+      ],
+      "width": 3024,
+      "height": 4032,
+      "orientation": "portrait"
+    },
+    {
+      "path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_14.jpg",
+      "score": 999,
+      "reasons": [
+        "Agent selected locked support image",
+        "work bucket",
+        "portrait orientation"
+      ],
+      "width": 2268,
+      "height": 4032,
+      "orientation": "portrait"
+    }
+  ],
+  "selection": {
+    "mode": "manual",
+    "hero_image": {
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_cbd33495078242edbd8ff4cd43dc01ff_10.jpg"
+    },
+    "support_image": {
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_14.jpg"
+    },
+    "rationale": {
+      "hero_image": [
+        "vision-ranked topic-first selection favors the clearest repair-context fit for this article",
+        "hero image now reflects the visible problem or assembly the guide is actually about"
+      ],
+      "support_image": [
+        "support image was chosen as the strongest complementary project photo for the same topic",
+        "the pair avoids generic skyline filler and keeps the article grounded in real repair visuals"
+      ]
+    }
+  }
+}

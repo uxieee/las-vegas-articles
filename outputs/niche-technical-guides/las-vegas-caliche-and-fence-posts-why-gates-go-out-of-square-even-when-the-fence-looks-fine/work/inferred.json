@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Caliche and Fence Posts: Why Gates Go Out of Square Even When the Fence \u201cLooks Fine\u201d",
+  "excerpt": "What that means in plain English is this: water does not always soak in gently here. It tends to run, concentrate, and work one side of a post or wall line harder than the other. Then heat and wind take over. A gate that is even slightly out of plumb starts loading the hinge side unevenly, latch geometry drifts, and the homeowner starts doing that little \u201clift-and-shove\u201d move every time they close it. The higher-ticket jobs usually show up when the problem is not just hardware anymore, but post movement + fence-line drift + gate tuning as one connected system. We see this a lot around Vegas, and the durable fix is almost never \u201cjust throw on a new latch.\u201d",
+  "faq_pairs": [
+    {
+      "question": "Does caliche make fence work harder here?",
+      "answer": "Yes. The USDA soil description for the Las Vegas series identifies shallow, carbonate-rich soils with petrocalcic characteristics, which affects how water behaves and how shallow systems perform."
+    },
+    {
+      "question": "Why do sprinklers matter so much?",
+      "answer": "The City of Las Vegas requires irrigation systems to avoid runoff and to keep overhead spray at least 24 inches away from buildings and walls to reduce damage from settling and expansion/contraction."
+    },
+    {
+      "question": "What makes this a high-ticket fence job?",
+      "answer": "When the issue is no longer \u201chardware only\u201d and has spread into posts, gate geometry, and the water path feeding the movement."
+    }
+  ],
+  "markdown_tables": [
+    "| Technical symptom | What it usually means | When it becomes a bigger job |\n| ----- | ----- | ----- |\n| Gate drags low at latch side | Hinge-side support is no longer true | Post reset + gate rebuild |\n| Latch misses by a little more each month | Ongoing geometry drift | Full gate/fence correction package |\n| Fence line looks \u201cwavy\u201d from one angle | Multiple supports moving differently | Section rebuild, not spot repair |\n| Hardware keeps loosening | Load path is wrong, not just screws | Reinforcement + alignment work |\n| One corner floods during storms | Runoff is feeding movement | Water-control correction + rebuild |"
+  ]
+}

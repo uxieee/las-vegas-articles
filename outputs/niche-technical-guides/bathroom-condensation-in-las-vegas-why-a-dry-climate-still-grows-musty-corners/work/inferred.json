@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Bathroom Condensation : Why a Dry Climate Still Grows Musty Corners",
+  "excerpt": "This is one of the easiest issues to misread. People assume a desert bathroom should dry instantly, so if it smells musty they think it is just cleaning or caulk. But bathrooms create their own humidity, and if the room cannot exhaust it fast enough, the wettest surfaces stay wet in the same places over and over. On bigger jobs, the fix is not bleach and hope. It is ventilation performance, moisture-path correction, selective rebuild of compromised materials, and finish choices that can survive the room\u2019s real behavior. Around Vegas, that often means solving the invisible part of the problem before the visible part stays fixed.",
+  "faq_pairs": [
+    {
+      "question": "Why does this happen in Las Vegas at all?",
+      "answer": "Because the bathroom itself creates humidity, and summer monsoon moisture can make indoor drying slower than people expect."
+    },
+    {
+      "question": "Is this just a cleaning problem?",
+      "answer": "Not when the smell or spotting keeps coming back in the same places."
+    },
+    {
+      "question": "What makes it a high-ticket job?",
+      "answer": "When the scope includes ventilation correction, opening wet areas, rebuilding materials, and stopping the repeat cycle."
+    }
+  ],
+  "markdown_tables": [
+    "| Technical symptom | What it usually means | When it becomes a bigger job |\n| ----- | ----- | ----- |\n| Musty smell after showers | Moist air is lingering too long | Ventilation/moisture-control package |\n| Spotting returns after cleaning | Surface is not the root cause | Open-up and source-correction scope |\n| Soft paint near lower wall | Moisture is staying trapped in one area | Selective rebuild |\n| Fan runs but room stays damp | Exhaust performance/detailing is weak | Fan/duct/room correction package |\n| Seasonal spike during monsoon | Outdoor humidity is compounding indoor moisture | Whole-system moisture strategy |"
+  ]
+}

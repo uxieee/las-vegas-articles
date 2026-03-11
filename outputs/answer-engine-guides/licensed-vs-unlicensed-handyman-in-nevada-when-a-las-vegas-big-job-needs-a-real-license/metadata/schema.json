@@ -1,0 +1,146 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Licensed vs. Unlicensed Handyman in Nevada: When a Las Vegas \u201cBig Job\u201d Needs a Real License",
+    "description": "Out here in the valley, \u201csmall\u201d issues stack into big scopes fast\u2014doors drifting, cracks reappearing",
+    "abstract": "Out here in the valley, \u201csmall\u201d issues stack into big scopes fast\u2014doors drifting, cracks reappearing, trim opening up\u2014partly because the local ground includes loamy, carbonatic soils with a petrocalcic (caliche) layer",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/75915475-e516-4f24-940c-bc930f4d6e94.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/0ad69a79-6686-4e6b-b835-8db9f5376dfd.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license",
+    "datePublished": "2026-03-03",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "handyman services"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "licensed contractor work"
+      },
+      {
+        "@type": "Thing",
+        "name": "homeowner repair guidance"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "licensed contractor work"
+      },
+      {
+        "@type": "Thing",
+        "name": "homeowner repair guidance"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "If we\u2019re targeting high-ticket work, what\u2019s the cleanest rule to remember?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nevada\u2019s Contractors Board describes an exemption for repair/maintenance work **valued at less than $1,000** (labor + materials) with important exceptions\u2014high-ticket scopes typically don\u2019t fit that box."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does \u201cno permit needed\u201d automatically mean \u201chandyman ok\u201d?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Not automatically. Permit status matters a lot, but the Board also frames the exemption around **project value and conditions**, so scope and category still matter."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What\u2019s the real risk with unlicensed contracting on bigger jobs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nevada spells out escalating penalties for unlicensed contracting (including repeat-offense escalation)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why do Vegas projects \u201cgrow legs\u201d so often?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Caliche-layer soils can show up as small alignment drift, and heat cycling beats up caulk/fasteners\u2014so one visible symptom can hide several connected fixes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should be tight and clear on a high-ticket scope?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Exact inclusions/exclusions, material specs, how change-orders are handled, and what happens if hidden damage shows up (water paths, rot behind trim, etc.)."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "role": "hero",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Rebecca Oliva_job_2c76917c0928467492f9b2fcbf60177b_3.jpg",
+      "exif_title": "Las Vegas Case Study: Bathroom Moisture and Mold Prevention Rebuild for Recurring Odor and Surface Damage project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the hero image for the article Las Vegas Case Study: Bathroom Moisture and Mold Prevention Rebuild for Recurring Odor and Surface Damage.",
+      "alt_text": "Primary job-site repair detail from a Local Handyman project in Las Vegas related to moisture and mold prevention work.",
+      "caption": "Local project detail anchoring this moisture and mold prevention work guide.",
+      "keywords": [
+        "moisture and mold prevention work",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    },
+    {
+      "role": "support",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Elizabeth Kostan_job_9754302068b04152953ab9747b45b585_2.jpg",
+      "exif_title": "Las Vegas Case Study: Bathroom Moisture and Mold Prevention Rebuild for Recurring Odor and Surface Damage project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the support image for the article Las Vegas Case Study: Bathroom Moisture and Mold Prevention Rebuild for Recurring Odor and Surface Damage.",
+      "alt_text": "Additional job-site repair detail from a Local Handyman project in Las Vegas related to moisture and mold prevention work.",
+      "caption": "Additional Las Vegas project detail supporting this moisture and mold prevention work guide.",
+      "keywords": [
+        "moisture and mold prevention work",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_type": "faq_page",
+  "primary_topic": "Las Vegas Case Study",
+  "about": [
+    "door repair",
+    "Las Vegas repair",
+    "hinge and strike adjustment",
+    "entry hardware upgrades"
+  ],
+  "mentions": [
+    "Las Vegas",
+    "Nevada",
+    "Las Vegas repair",
+    "hinge and strike adjustment",
+    "entry hardware upgrades"
+  ],
+  "answer_summary": "We run into this a lot in Las Vegas. People want upgraded locks, cameras, and entry hardware, but the door already rubs a little, the strike is barely catching, and the trim or seal details are tired from heat and exposure",
+  "speakable_summary": "We run into this a lot in Las Vegas. People want upgraded locks, cameras, and entry hardware, but the door already rubs a little, the strike is barely catching",
+  "questions_answered": [
+    "Why does a smart lock care if the door is slightly off?",
+    "Why bundle door tuning with a smart install?",
+    "What makes this a high-ticket scope?"
+  ],
+  "service_area": [
+    "Summerlin North",
+    "Summerlin South",
+    "Summerlin West",
+    "Queensridge",
+    "Centennial Hills",
+    "Lone Mountain",
+    "Angel Park",
+    "Desert Shores",
+    "Rancho",
+    "Downtown Las Vegas"
+  ],
+  "article_section_labels": [
+    "Frequently Asked Questions",
+    "Related Guides You Might Find Helpful",
+    "Cost and Scope Table"
+  ]
+}

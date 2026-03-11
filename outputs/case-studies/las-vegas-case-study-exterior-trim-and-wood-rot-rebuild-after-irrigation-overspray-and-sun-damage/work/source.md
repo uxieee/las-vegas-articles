@@ -1,0 +1,38 @@
+=== ARTICLE ===
+title: Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage
+slug: las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage
+content_family: case-studies
+
+# Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage
+This one looked like “just paint failure” from the driveway, but it was really **rot fed by overspray, splash-back, and cooked caulk lines**. The project turned into a proper exterior rebuild package, not a cosmetic touch-up.
+
+Vegas rot is sneaky because everybody assumes dry climate means dry wood. What actually happens is repeated wetting at the same trim ends, garage legs, or sill corners, then the heat bakes the coatings until water slips behind them and stays there longer than it should. On this house, the soft spots were low and predictable: trim near irrigation, lower corners near runoff, and one sunny elevation where every joint had opened up. The high-ticket scope came from cutting back to sound material, rebuilding the weak areas, sealing all faces, and correcting the wetting pattern that was feeding the damage in the first place. We see a lot of exterior work around Vegas fail because people repair the wood and leave the water routine exactly the same.
+
+| Case study snapshot | What was going on | How the scope was handled |
+| ----- | ----- | ----- |
+| Lower trim corners | Soft wood and bubbling paint | Removed failed sections and rebuilt to sound material |
+| Garage leg / casing areas | Overspray-fed deterioration | Replaced weak sections and corrected wetting source |
+| Open joints | Caulk failure from heat and UV | Re-sealed critical joints after rebuild |
+| Finish prep | Multiple elevations looking tired | Scoped as rebuild + seal + paint-ready package |
+| Homeowner goal | Stop chasing the same soft spots every season | Treated as a full exterior durability project |
+
+Around here, “wood rot” usually means water kept winning in one little area over and over. Once the trim is rebuilt and the wetting source is handled, the repair stops feeling temporary.
+
+## FAQ: Wood Rot Rebuilds in Las Vegas
+
+### How does wood rot happen in a desert city?
+Repeated irrigation overspray, splash-back, and failed paint/caulk details can keep small areas wet enough to rot.
+
+### Can you just fill the soft section?
+On higher-ticket projects, that usually doesn’t hold. The bad wood has to be cut back to solid material.
+
+### What makes this a bigger job?
+Multiple trim zones, rebuild work, sealing, and correcting the moisture source all in one scope.
+
+## Related Guides You Might Find Helpful
+
+- [Las Vegas Wood Rot Repair](https://localhandyman.com/lasvegas/las-vegas-wood-rot-repair) - The direct service-page version of this failure pattern
+
+- [Las Vegas Storm Damage Repair Guide](https://localhandyman.com/lasvegas/las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after) - Useful when splash-back or storm runoff helped start the problem
+
+- [Las Vegas Siding Repair](https://localhandyman.com/lasvegas/las-vegas-siding-repair) - Good when failed seams and trim details are working together

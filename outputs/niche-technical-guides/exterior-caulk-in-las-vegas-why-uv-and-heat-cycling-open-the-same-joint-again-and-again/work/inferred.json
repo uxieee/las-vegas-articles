@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Exterior Caulk : Why UV and Heat Cycling Open the Same Joint Again and Again",
+  "excerpt": "What homeowners usually notice is not \u201csealant science.\u201d It is a crack opening back up at the trim line, around a window edge, or where two materials meet. The reason the same joint fails twice is usually simple: the movement was bigger than the original detail could handle, the prep was weak, or the joint behind the caulk was already unstable. On higher-ticket exterior packages, caulk is just one part of the job. The real scope is often joint rebuild, backer/detail correction, adjacent trim stabilization, and finish prep so the line does not split again by the next hot season. Around Vegas, that is the difference between a maintenance touch-up and a durable exterior correction.",
+  "faq_pairs": [
+    {
+      "question": "Why does the west side fail first?",
+      "answer": "It often takes the harshest sun and heat load, which makes movement and UV stress more obvious."
+    },
+    {
+      "question": "Is recaulking enough?",
+      "answer": "Not when the joint itself is unstable or the surrounding trim is already moving."
+    },
+    {
+      "question": "What makes this high-ticket?",
+      "answer": "When failed joints are spread across one or more elevations and need substrate correction, not just fresh sealant."
+    }
+  ],
+  "markdown_tables": [
+    "| Technical symptom | What it usually means | When it becomes a bigger job |\n| ----- | ----- | ----- |\n| Same trim joint opens every summer | Movement exceeds old detail | Joint rebuild + trim correction |\n| Fresh caulk cracks quickly | Prep or substrate stability was poor | Broader exterior durability scope |\n| Window/door edge gaps | Opening movement + weather stress | Full opening detail reset |\n| Paint edge splits over caulk line | Finish is telegraphing joint failure | Seal + prep + repaint-ready package |\n| Many joints failing on one exposure | Whole elevation is heat-stressed | Multi-area exterior correction |"
+  ]
+}

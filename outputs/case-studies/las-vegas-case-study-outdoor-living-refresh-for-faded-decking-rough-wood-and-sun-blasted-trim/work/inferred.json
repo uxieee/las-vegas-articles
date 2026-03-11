@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Case Study: Outdoor Living Refresh for Faded Decking, Rough Wood, and Sun-Blasted Trim",
+  "excerpt": "We see this all the time on decks, patio trim, gates, and outdoor wood features that have taken years of UV, heat cycling, and uneven wetting. One corner stays damp from overspray or runoff, the rest gets baked dry, and suddenly the finish is failing in three different ways at once. On this job, the homeowner wanted the whole area to feel usable and intentional again, not just \u201cless gray.\u201d That meant prepping the surfaces correctly, replacing the worst components, dealing with rough edges and open joints, and finishing the whole space so it looked coherent. High-ticket outdoor projects in Vegas usually win or lose in prep, not product label hype.",
+  "faq_pairs": [
+    {
+      "question": "Why do outdoor wood surfaces get so rough here?",
+      "answer": "Heat, UV, and moisture swings lift fibers and crack the grain over time."
+    },
+    {
+      "question": "Can you just re-stain over it?",
+      "answer": "Not on bigger failures. The surface has to be cleaned, prepped, and sometimes rebuilt before a new finish has a chance."
+    },
+    {
+      "question": "What makes this high-ticket?",
+      "answer": "Multiple surfaces, prep-intensive work, rebuild sections, and finish integration across the whole area."
+    }
+  ],
+  "markdown_tables": [
+    "| Case study snapshot | What was going on | How the scope was handled |\n| ----- | ----- | ----- |\n| Deck / platform surfaces | Rough boards, splinters, stain failure | Prepped surfaces and rebuilt weak sections where needed |\n| Adjacent trim details | Open joints and tired finish lines | Repaired, sealed, and integrated with refreshed surfaces |\n| Moisture pattern | Uneven wear from overspray/runoff vs sun-bake | Corrected wetting pattern where possible |\n| Finish consistency | Patchy old coatings and uneven appearance | Scoped as one unified outdoor refresh package |\n| Homeowner goal | Make the area feel finished, safe, and worth using again | Bundled as a high-ticket exterior living-space project |"
+  ]
+}

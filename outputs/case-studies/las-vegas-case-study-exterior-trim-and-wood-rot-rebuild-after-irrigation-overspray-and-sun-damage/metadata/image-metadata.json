@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "role": "hero",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Christine Florie_job_9b1c704be06e47e993cc21a080d5d67c_1.jpg",
+      "exif_title": "Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the hero image for the article Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage.",
+      "alt_text": "Primary job-site repair detail from a Local Handyman project in Las Vegas related to wood rot repair.",
+      "caption": "Local project detail anchoring this wood rot repair guide.",
+      "keywords": [
+        "wood rot repair",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    },
+    {
+      "role": "support",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_15.jpg",
+      "exif_title": "Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the support image for the article Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage.",
+      "alt_text": "Additional job-site repair detail from a Local Handyman project in Las Vegas related to wood rot repair.",
+      "caption": "Additional Las Vegas project detail supporting this wood rot repair guide.",
+      "keywords": [
+        "wood rot repair",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    }
+  ]
+}

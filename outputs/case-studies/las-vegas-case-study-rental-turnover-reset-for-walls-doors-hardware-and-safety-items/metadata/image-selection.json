@@ -1,0 +1,19 @@
+{
+  "mode": "manual",
+  "hero_image": {
+    "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marci Cox_job_c4e9c4dbdfe9459b82d231e396d63d53_21.jpg"
+  },
+  "support_image": {
+    "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Kerry O_donnell_job_5ae4e2f852a6476586437086ed03c514_2.jpg"
+  },
+  "rationale": {
+    "hero_image": [
+      "manual review picked the threshold and floor-detail shot because it matches the mixed doors-and-hardware reset scope in a turnover job",
+      "the hero now reads like real turnover correction work instead of a reused duplicate frame"
+    ],
+    "support_image": [
+      "support image was chosen as the strongest complementary project photo for the same topic",
+      "the pair avoids generic skyline filler and keeps the article grounded in real repair visuals"
+    ]
+  }
+}

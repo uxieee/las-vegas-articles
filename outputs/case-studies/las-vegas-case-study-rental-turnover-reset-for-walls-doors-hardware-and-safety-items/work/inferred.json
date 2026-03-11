@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Case Study: Rental Turnover Reset for Walls, Doors, Hardware, and Safety Items",
+  "excerpt": "Vegas turnovers get expensive when the wear pattern is layered. Drywall dings are one thing, but once you add drifting doors, sloppy hardware, squeaky spots, sun-baked exterior touchpoints, and old caulk joints, the project stops being \u201cpaint prep\u201d and becomes a real reset. On this unit, the owner wanted fewer callbacks, better showing condition, and less of that pieced-together landlord special look. We grouped the work room-by-room and system-by-system so the function issues got fixed at the same time as the finish work. That\u2019s what keeps a turnover from feeling rushed even when the scope is moving quick.",
+  "faq_pairs": [
+    {
+      "question": "Why do turnovers turn into high-ticket jobs?",
+      "answer": "Because lots of medium-size items stack up fast once you want the unit to show clean and function well."
+    },
+    {
+      "question": "What gets missed most often?",
+      "answer": "Door alignment, hardware quality, trim gaps, and visible patch blending."
+    },
+    {
+      "question": "Why bundle turnover work instead of sending different trades?",
+      "answer": "It keeps the finish consistent, cuts down repeat visits, and helps the unit get back on the market cleaner."
+    }
+  ],
+  "markdown_tables": [
+    "| Case study snapshot | What was going on | How the scope was handled |\n| ----- | ----- | ----- |\n| Wall damage | Dings, patches, texture mismatch | Repaired and blended visible wall areas |\n| Interior doors | Rubbing, loose hardware, latch issues | Tuned and tightened openings/hardware |\n| Trim/baseboards | Gaps, scuffs, loose sections | Reattached, sealed, and cleaned up transitions |\n| Safety/function items | Loose stops, minor mounting issues, misc punch-list items | Bundled into one reset visit |\n| Homeowner goal | Faster turn with fewer tenant complaints | Scoped as a full turnover correction package |"
+  ]
+}

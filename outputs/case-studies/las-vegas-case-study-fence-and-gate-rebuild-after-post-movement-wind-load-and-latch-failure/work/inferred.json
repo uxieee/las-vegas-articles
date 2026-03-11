@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Case Study: Fence and Gate Rebuild After Post Movement, Wind Load, and Latch Failure",
+  "excerpt": "Around Las Vegas, we see this when posts sit in hard, caliche-heavy ground and runoff works one side of the footing more than the other. Then summer heat dries and twists the wood, wind keeps loading the loose side, and the gate starts dragging like it gained fifty pounds overnight. The homeowner symptoms were classic: latch missing by just enough to annoy you, a gate rubbing low, and fence rails loosening up in the same run. The high-ticket part wasn\u2019t \u201cone bad hinge\u201d; it was rebuilding the load path so the movement stopped telegraphing through the whole section. We reset the geometry, replaced the failed pieces, upgraded hardware where it made sense, and tuned the close so it didn\u2019t feel sloppy.",
+  "faq_pairs": [
+    {
+      "question": "Why do Vegas gates start sagging so fast?",
+      "answer": "Heat, wind, and slight post movement gang up on them. Once the hinge side goes a little out, the latch end tells on it fast."
+    },
+    {
+      "question": "Can you just replace the latch or hinges?",
+      "answer": "Sometimes, but on bigger jobs that usually treats the symptom, not the geometry that caused it."
+    },
+    {
+      "question": "What makes this a high-ticket scope?",
+      "answer": "When the gate problem is tied to post correction, section rebuilds, and hardware upgrades instead of one small adjustment."
+    }
+  ],
+  "markdown_tables": [
+    "| Case study snapshot | What was going on | How the scope was handled |\n| ----- | ----- | ----- |\n| Hinge-side post | Leaning and twisting under load | Rebuilt/reset support and corrected plumb |\n| Gate leaf | Dragging and failing to latch cleanly | Realigned frame and hardware, tuned reveal |\n| Fence run nearby | Rails loosening and section drifting | Re-secured weak connections and corrected line |\n| Hardware | Old fasteners and tired latch setup | Upgraded key hardware and anchoring points |\n| Homeowner goal | Clean close, no more \u201clift the gate\u201d routine | Scoped as a full perimeter correction package |"
+  ]
+}

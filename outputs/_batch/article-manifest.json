@@ -1,0 +1,771 @@
+{
+  "image_policy": {
+    "review_mode": "manual_visual_batch",
+    "hero_source_policy": "mixed",
+    "hero_orientation_policy": "landscape_preferred",
+    "support_source_policy": "work_only",
+    "support_orientation_policy": "any"
+  },
+  "articles": [
+    {
+      "index": 1,
+      "article_id": "answer-engine-guides/las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley",
+      "content_family": "answer-engine-guides",
+      "slug": "las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley",
+      "title": "Las Vegas Handyman Cost Guide (2026): What High-Ticket Projects Really Cost in the Valley",
+      "excerpt": "Out here, the ground is often shallow, well-drained, loamy, carbonatic soil with a petrocalcic (caliche) layer, which is why we see small seasonal movement show up as door alignment drift, hairline cracking, and fence/gate racking\u2014and those \u201csmall\u201d symptoms stack into bigger scopes fast. Vegas weather is the other multiplier: triple-digit heat and UV cook caulk/paint and stress materials daily, and monsoon storms can cause flash flooding that exposes drainage and moisture issues in one shot. Seasonally, the clean way to keep a high-ticket job from turning into rework is planning around material behavior: hot surfaces, flash-dry coatings, cooled nights, pull joints, and anything exterior needs prep that matches that cycle. Most supplies are easy to grab same-day locally (fasteners, sealants, hangers, setting compounds), but matching textures/finishes cleanly is what usually adds labor and revisits.",
+      "page_type": "comparison_page",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/answer-engine-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley/final"
+      }
+    },
+    {
+      "index": 2,
+      "article_id": "answer-engine-guides/licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license",
+      "content_family": "answer-engine-guides",
+      "slug": "licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license",
+      "title": "Licensed vs. Unlicensed Handyman in Nevada: When a Las Vegas \u201cBig Job\u201d Needs a Real License",
+      "excerpt": "Out here in the valley, \u201csmall\u201d issues stack into big scopes fast\u2014doors drifting, cracks reappearing, trim opening up\u2014partly because the local ground includes loamy, carbonatic soils with a petrocalcic (caliche) layer, which can show up as tiny movement that stresses finishes. Then Las Vegas weather does its thing: triple-digit heat and big daily swings work joints and sealants, and monsoon bursts can reveal water paths in a hurry. For higher-ticket packages (multi-room repairs, exterior rebuild bundles, bigger turnovers), we treat licensing as part of the \u201cjob spec,\u201d because Nevada is clear that unlicensed contracting can escalate from misdemeanor to felony on repeat offenses. (This page type is one of your Phase 2 Answer Engine Guides from the Matrix.)",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/answer-engine-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license/final"
+      }
+    },
+    {
+      "index": 3,
+      "article_id": "answer-engine-guides/why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it",
+      "content_family": "answer-engine-guides",
+      "slug": "why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it",
+      "title": "Why Doors Stick in Las Vegas: Caliche Ground Shifts + Heat Swells Frames (and What Actually Fixes It)",
+      "excerpt": "Las Vegas homes sit over alluvial soils with caliche layers, and when runoff or irrigation hits unevenly, you can get tiny differential movement that shows up first at door frames: rub marks at the latch side, a top corner bind, or a latch that suddenly won\u2019t catch. Then the extreme heat does the rest\u2014wood and metal expand differently, so a door that was \u201cfine in spring\u201d starts dragging in summer, especially on sun-baked exposures. Seasonally, we see the pattern flip: hot months push swelling/binding; cooler months reveal gaps or a latch that feels loose because materials contracted back. Material stress is predictable here\u2014hinge screws back out, strike plates shift, and cheaper weatherstripping gets crispy\u2014so the lasting fix is hinge-side shimming, longer fasteners into framing, strike/hinge tuning, and correcting the reveal instead of planing the door to death. Parts are easy to source locally (hinges, longer screws, strikes), but the real win is getting the geometry right so it stays right.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/answer-engine-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it/final"
+      }
+    },
+    {
+      "index": 4,
+      "article_id": "answer-engine-guides/best-wood-for-las-vegas-fences-cedar-redwood-or-wood-on-steel-for-a-high-ticket-build",
+      "content_family": "answer-engine-guides",
+      "slug": "best-wood-for-las-vegas-fences-cedar-redwood-or-wood-on-steel-for-a-high-ticket-build",
+      "title": "Best Wood for Las Vegas Fences: Cedar, Redwood, or Wood-on-Steel for a High-Ticket Build",
+      "excerpt": "Las Vegas sits on alluvial valley soils where caliche/hard layers can make post holes a pain and can push runoff to the pool and wash out around posts during monsoon bursts\u2014so the structure matters as much as the boards. The climate is the big bully: triple-digit heat and abundant sunshine accelerate drying and checking, while wind events can rack a fence once posts loosen even a little. Material-wise, cedar is often favored for drier climates, while redwood is commonly positioned as strongest where moisture is the main enemy (still workable here, just pricey). Seasonally, the \u201cVegas pattern\u201d is boards shrinking and cracking through summer, then revealing fastener movement and gate alignment issues when temps swing. For a high-ticket build that stays straight, we lean toward steel-post framing with wood pickets/rails (or higher-grade metal systems) so the fence doesn\u2019t depend on wood posts surviving heat + runoff cycles.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/answer-engine-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/best-wood-for-las-vegas-fences-cedar-redwood-or-wood-on-steel-for-a-high-ticket-build",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/best-wood-for-las-vegas-fences-cedar-redwood-or-wood-on-steel-for-a-high-ticket-build/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/best-wood-for-las-vegas-fences-cedar-redwood-or-wood-on-steel-for-a-high-ticket-build/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/best-wood-for-las-vegas-fences-cedar-redwood-or-wood-on-steel-for-a-high-ticket-build/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/best-wood-for-las-vegas-fences-cedar-redwood-or-wood-on-steel-for-a-high-ticket-build/final"
+      }
+    },
+    {
+      "index": 5,
+      "article_id": "answer-engine-guides/las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after",
+      "content_family": "answer-engine-guides",
+      "slug": "las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after",
+      "title": "Las Vegas Storm Damage Repair Guide: Why Monsoon Bursts Find Every Weak Seam (and What Holds Up After)",
+      "excerpt": "In Las Vegas, a big monsoon dump can turn into sheet runoff because we\u2019ve got loamy alluvial soils with caliche layers that don\u2019t always absorb water evenly, so splash-back and pooling show up right at the slab edge and lower walls. Wind-driven rain will push water into tiny gaps around trim, storm doors, and siding seams, and once it\u2019s behind the finish, the heat bakes it and makes caulk fail even faster. Seasonal behavior matters: late-summer storms expose the weak points, then fall/winter temp swings make the \u201cfixed\u201d spots telegraph again if the repair wasn\u2019t reinforced. Material stress is predictable here\u2014fasteners loosen, corner joints open, gutter corners leak, and exterior paint films crack under UV. The best high-ticket repairs bundle the full path: exterior sealing/flashing corrections, drainage/discharge fixes, damaged material replacement, then interior patch/prime so stains don\u2019t ghost back through\u2014and most of the parts are easy to source locally (hangers, sealants, flashing, trim stock), it\u2019s the sequencing that makes it last.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/answer-engine-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after/final"
+      }
+    },
+    {
+      "index": 6,
+      "article_id": "answer-engine-guides/winterizing-pipes-las-vegas-why-a-desert-city-still-busts-lines-on-freeze-nights",
+      "content_family": "answer-engine-guides",
+      "slug": "winterizing-pipes-las-vegas-why-a-desert-city-still-busts-lines-on-freeze-nights",
+      "title": "Winterizing Pipes Las Vegas: Why a Desert City Still Busts Lines on Freeze Nights",
+      "excerpt": "Las Vegas sees freezing temps with some regularity, and the damage usually hits garage walls, exterior hose bibs, backflow devices, attic runs, and cabinets on outside walls. The local soil profile (loamy, carbonatic soils with a petrocalcic \u201ccaliche\u201d layer) matters because it often drives shallow/exposed routing for irrigation and exterior plumbing components\u2014and those are the first to get nailed when the wind chills the wall. Seasonal behavior is predictable: the first real cold week is when we see surprise failures, and then the next day\u2019s thaw is when leaks show up. Material stress is straight physics\u2014water expands as it freezes\u2014so prevention is about insulation, sealing drafts, controlled heat, and smart shutoffs.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/answer-engine-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/winterizing-pipes-las-vegas-why-a-desert-city-still-busts-lines-on-freeze-nights",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/winterizing-pipes-las-vegas-why-a-desert-city-still-busts-lines-on-freeze-nights/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/winterizing-pipes-las-vegas-why-a-desert-city-still-busts-lines-on-freeze-nights/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/winterizing-pipes-las-vegas-why-a-desert-city-still-busts-lines-on-freeze-nights/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/winterizing-pipes-las-vegas-why-a-desert-city-still-busts-lines-on-freeze-nights/final"
+      }
+    },
+    {
+      "index": 7,
+      "article_id": "answer-engine-guides/fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time",
+      "content_family": "answer-engine-guides",
+      "slug": "fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time",
+      "title": "Fixing Squeaky Floors Las Vegas: How Dry Heat Shrinks Wood and Loosens Fasteners Over Time",
+      "excerpt": "In Las Vegas, the combo of extreme heat, low humidity, and big day/night swings makes wood framing and subfloors expand/contract until fasteners start moving and you get that classic chirp at the same step every time. Even with loamy alluvial soils and caliche layers under many neighborhoods, the bigger squeak driver is usually inside the framing: slight movement plus shrinkage, especially upstairs where joists and subfloor seams do the talking. Seasonally, squeaks often get louder in the driest months (wood shrinks) and change character after monsoon humidity bumps (wood swells a touch, then settles back). Material stress shows up as nail pops, loose subfloor edges, and friction at joist hangers or blocking, so the real fix is re-fastening and stabilizing contact points. Hardware and materials are easy to source locally (construction screws, adhesive, shims, brackets) \u2014 the skill is finding the noise path and locking it down without making the floor feel lumpy.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/answer-engine-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time/final"
+      }
+    },
+    {
+      "index": 8,
+      "article_id": "answer-engine-guides/las-vegas-bathroom-mold-prevention-why-a-c-condensation-monsoon-spikes-grow-mold-behind-dry-walls",
+      "content_family": "answer-engine-guides",
+      "slug": "las-vegas-bathroom-mold-prevention-why-a-c-condensation-monsoon-spikes-grow-mold-behind-dry-walls",
+      "title": "Las Vegas Bathroom Mold Prevention: Why A/C Condensation + Monsoon Spikes Grow Mold Behind \u201cDry\u201d Walls",
+      "excerpt": "Even in a dry climate, bathrooms are a moisture factory, and Las Vegas adds two big multipliers: hard summer A/C (cold surfaces that sweat) and monsoon humidity bursts that push damp air into wall cavities if the fan/ducting is weak. With loamy alluvial soils and caliche layers, stormwater tends to run and splash-back instead of soaking evenly, so any exterior-adjacent bath wall or slab-edge leak can keep materials damp longer than you\u2019d expect. Seasonally, we see the pattern: summer = condensation and sweaty ducts; late summer storms = sudden musty smells; winter = slower drying if fans are weak. Material stress shows up as soft drywall at the base, bubbling paint, black spotting at grout/caulk lines, and a \u201cwet towel\u201d smell that never fully leaves. The durable fix is a system: properly sized exhaust, airtight/short duct runs, sealed penetrations, mold-resistant surfaces where it matters, and leak-path corrections so moisture can\u2019t feed the problem.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/answer-engine-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-bathroom-mold-prevention-why-a-c-condensation-monsoon-spikes-grow-mold-behind-dry-walls",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-bathroom-mold-prevention-why-a-c-condensation-monsoon-spikes-grow-mold-behind-dry-walls/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-bathroom-mold-prevention-why-a-c-condensation-monsoon-spikes-grow-mold-behind-dry-walls/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-bathroom-mold-prevention-why-a-c-condensation-monsoon-spikes-grow-mold-behind-dry-walls/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-bathroom-mold-prevention-why-a-c-condensation-monsoon-spikes-grow-mold-behind-dry-walls/final"
+      }
+    },
+    {
+      "index": 9,
+      "article_id": "answer-engine-guides/las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet",
+      "content_family": "answer-engine-guides",
+      "slug": "las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet",
+      "title": "Las Vegas Pre-Listing Checklist: The High-Ticket Fixes That Keep Showings Clean and Inspections Quiet",
+      "excerpt": "Las Vegas sits on shallow, well-drained, loamy soils with a petrocalcic (caliche) layer, so small movement can show up as door drift, corner cracks, and fence/gate alignment\u2014exactly the stuff buyers notice the second they touch anything. Then the climate piles on: triple-digit heat + UV cooks caulk/paint and opens micro-gaps, and monsoon storms can dump water fast enough to expose gutter/discharge problems in one go. Seasonally, we see \u201cfast flips\u201d fail because heat cycling telegraphs patches back through\u2014so the durable approach is reinforce + seal/prime + blend, not just cosmetic dab-and-go. Material stress shows up as sticking doors, ghosted patches, wavy trim lines, and exterior staining, and most of the parts are easy to source around town (fasteners, sealants, hangers, patch materials)\u2014the time is in doing it in the right order.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/answer-engine-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/answer-engine-guides/las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet/final"
+      }
+    },
+    {
+      "index": 10,
+      "article_id": "case-studies/las-vegas-case-study-pre-listing-repair-package-for-cracks-sticky-doors-and-exterior-wear",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-pre-listing-repair-package-for-cracks-sticky-doors-and-exterior-wear",
+      "title": "Las Vegas Case Study: Pre-Listing Repair Package for Cracks, Sticky Doors, and Exterior Wear",
+      "excerpt": "On this kind of west-valley project, the pattern is usually the same: alluvial Las Vegas soils with carbonate-rich caliche allow just enough tiny movement to show up as door drift, recurring drywall cracks, and a gate that no longer latches clean. Then the climate piles on\u2014extreme heat, strong sun, and monsoon-season flash flooding stress caulk lines, coatings, hardware, and drainage details until the house starts feeling \u201coff\u201d in multiple places at once. What made this a bigger-ticket job was not one catastrophic issue; it was the stack: interior finish work that had to disappear in bright light, exterior trim and seal details that had to hold through another Vegas summer, and water discharge corrections so the same staining didn\u2019t come right back. We see this a lot around town, and the clean repair logic is always the same\u2014square the openings, reinforce the weak finish areas, rebuild the tired exterior details, then fix the water path before you call it done. Done that way, the house stops reading like \u201cdeferred maintenance\u201d and starts feeling tight again.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-pre-listing-repair-package-for-cracks-sticky-doors-and-exterior-wear",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-pre-listing-repair-package-for-cracks-sticky-doors-and-exterior-wear/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-pre-listing-repair-package-for-cracks-sticky-doors-and-exterior-wear/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-pre-listing-repair-package-for-cracks-sticky-doors-and-exterior-wear/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-pre-listing-repair-package-for-cracks-sticky-doors-and-exterior-wear/final"
+      }
+    },
+    {
+      "index": 11,
+      "article_id": "case-studies/las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage",
+      "title": "Las Vegas Case Study: Monsoon Water Intrusion Repair for Stucco Staining, Soft Trim, and Interior Wall Damage",
+      "excerpt": "In Las Vegas, that pattern makes sense. The local Las Vegas soil series is shallow, well-drained, and carbonatic/caliche-heavy, so heavy rain does not always soak in gently; it can run fast, splash hard, and concentrate water at slab edges and low walls. Thunderstorms and monsoon bursts in southern Nevada can produce flash flooding and damaging winds, which is exactly when small exterior weak points stop being \u201ccosmetic\u201d and start becoming real leak paths. On this kind of project, the homeowner symptoms are usually obvious after the storm: fresh stucco staining, damp garage or lower-wall drywall, swollen trim, and a musty corner that was not there before. The durable repair logic is straight physics\u2014stop the entry point, improve the discharge path, remove what stayed wet too long, then rebuild and seal the assembly so the next storm does not reopen the whole mess.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage/final"
+      }
+    },
+    {
+      "index": 12,
+      "article_id": "case-studies/las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure",
+      "title": "Las Vegas Case Study: Fence and Gate Rebuild After Post Movement, Wind Load, and Latch Failure",
+      "excerpt": "Around Las Vegas, we see this when posts sit in hard, caliche-heavy ground and runoff works one side of the footing more than the other. Then summer heat dries and twists the wood, wind keeps loading the loose side, and the gate starts dragging like it gained fifty pounds overnight. The homeowner symptoms were classic: latch missing by just enough to annoy you, a gate rubbing low, and fence rails loosening up in the same run. The high-ticket part wasn\u2019t \u201cone bad hinge\u201d; it was rebuilding the load path so the movement stopped telegraphing through the whole section. We reset the geometry, replaced the failed pieces, upgraded hardware where it made sense, and tuned the close so it didn\u2019t feel sloppy.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure/final"
+      }
+    },
+    {
+      "index": 13,
+      "article_id": "case-studies/las-vegas-case-study-multi-room-drywall-and-ceiling-crack-repair-for-reappearing-seams",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-multi-room-drywall-and-ceiling-crack-repair-for-reappearing-seams",
+      "title": "Las Vegas Case Study: Multi-Room Drywall and Ceiling Crack Repair for Reappearing Seams",
+      "excerpt": "We see this all the time in Las Vegas homes that have had a few quick cosmetic repairs layered over the years. Small movement in the house shows first at the drywall joints, then heat cycling keeps stressing the same weak seams until the crack comes back exactly where the old patch was hiding. On this project, the homeowner was tired of paying for the same hallway and ceiling lines every year, especially once the afternoon light hit and made every halo show up. The bigger-ticket fix was widening the scope on purpose: reinforce the problem joints, float them wide enough to disappear, blend the texture properly, and stop pretending a little spackle knife was going to beat desert physics. Once the work was treated as a system instead of a handful of spots, the finish finally looked settled.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-multi-room-drywall-and-ceiling-crack-repair-for-reappearing-seams",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-multi-room-drywall-and-ceiling-crack-repair-for-reappearing-seams/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-multi-room-drywall-and-ceiling-crack-repair-for-reappearing-seams/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-multi-room-drywall-and-ceiling-crack-repair-for-reappearing-seams/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-multi-room-drywall-and-ceiling-crack-repair-for-reappearing-seams/final"
+      }
+    },
+    {
+      "index": 14,
+      "article_id": "case-studies/las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage",
+      "title": "Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage",
+      "excerpt": "Vegas rot is sneaky because everybody assumes dry climate means dry wood. What actually happens is repeated wetting at the same trim ends, garage legs, or sill corners, then the heat bakes the coatings until water slips behind them and stays there longer than it should. On this house, the soft spots were low and predictable: trim near irrigation, lower corners near runoff, and one sunny elevation where every joint had opened up. The high-ticket scope came from cutting back to sound material, rebuilding the weak areas, sealing all faces, and correcting the wetting pattern that was feeding the damage in the first place. We see a lot of exterior work around Vegas fail because people repair the wood and leave the water routine exactly the same.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage/final"
+      }
+    },
+    {
+      "index": 15,
+      "article_id": "case-studies/las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings",
+      "title": "Las Vegas Case Study: Luxury Punch-List and Finish Correction Before Photos and Showings",
+      "excerpt": "We see this a lot in premium neighborhoods where the details do all the talking. One reveal is off, one patch flashes through the paint, one gate drags, one trim line looks wavy, and suddenly the whole house reads a little tired even though no single issue is dramatic. On this project, the scope had to balance function and finish: doors had to close right, walls had to read flat, trim had to stop looking heat-cooked, and exterior sightlines had to clean up without looking overworked. The high-ticket value was in sequencing the work so the house presented as one clean story instead of ten unrelated repairs. That\u2019s the difference between a punch-list that helps and one that just leaves fresh fingerprints everywhere.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings/final"
+      }
+    },
+    {
+      "index": 16,
+      "article_id": "case-studies/las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items",
+      "title": "Las Vegas Case Study: Rental Turnover Reset for Walls, Doors, Hardware, and Safety Items",
+      "excerpt": "Vegas turnovers get expensive when the wear pattern is layered. Drywall dings are one thing, but once you add drifting doors, sloppy hardware, squeaky spots, sun-baked exterior touchpoints, and old caulk joints, the project stops being \u201cpaint prep\u201d and becomes a real reset. On this unit, the owner wanted fewer callbacks, better showing condition, and less of that pieced-together landlord special look. We grouped the work room-by-room and system-by-system so the function issues got fixed at the same time as the finish work. That\u2019s what keeps a turnover from feeling rushed even when the scope is moving quick.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items/final"
+      }
+    },
+    {
+      "index": 17,
+      "article_id": "case-studies/las-vegas-case-study-bathroom-moisture-and-mold-prevention-rebuild-for-recurring-odor-and-surface-damage",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-bathroom-moisture-and-mold-prevention-rebuild-for-recurring-odor-and-surface-damage",
+      "title": "Las Vegas Case Study: Bathroom Moisture and Mold Prevention Rebuild for Recurring Odor and Surface Damage",
+      "excerpt": "Vegas bathrooms fool people. The city is dry, so they assume mold or repeated mildew must be a housekeeping issue, when a lot of the time it\u2019s trapped moisture, weak fan performance, sweating lines, or moisture getting behind finishes and staying there. On this project, the symptoms were subtle at first: recurring spotting, soft paint near one lower wall, and that damp smell that never fully left after cleaning. The bigger-ticket scope came from opening the problem area, correcting the moisture conditions, rebuilding the compromised sections, and improving the bathroom\u2019s ability to dry out after use. We see this all the time\u2014surface cleaning buys time, but the real fix is changing the moisture behavior.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-bathroom-moisture-and-mold-prevention-rebuild-for-recurring-odor-and-surface-damage",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-bathroom-moisture-and-mold-prevention-rebuild-for-recurring-odor-and-surface-damage/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-bathroom-moisture-and-mold-prevention-rebuild-for-recurring-odor-and-surface-damage/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-bathroom-moisture-and-mold-prevention-rebuild-for-recurring-odor-and-surface-damage/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-bathroom-moisture-and-mold-prevention-rebuild-for-recurring-odor-and-surface-damage/final"
+      }
+    },
+    {
+      "index": 18,
+      "article_id": "case-studies/las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup",
+      "title": "Las Vegas Case Study: Smart Home and Entry Upgrade with Door Alignment, Strike Correction, and Finish Cleanup",
+      "excerpt": "We run into this a lot in Las Vegas. People want upgraded locks, cameras, and entry hardware, but the door already rubs a little, the strike is barely catching, and the trim or seal details are tired from heat and exposure. If you skip that and mount the new gear anyway, the system acts flaky and everybody blames the electronics. On this project, the smart-home scope got bundled with door tuning, better anchoring, weather detailing, and some finish cleanup around the entry so the whole setup felt intentional. That\u2019s what made it a real project instead of just another gadget install.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup/final"
+      }
+    },
+    {
+      "index": 19,
+      "article_id": "case-studies/las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim",
+      "title": "Las Vegas Case Study: Outdoor Living Refresh for Faded Decking, Rough Wood, and Sun-Blasted Trim",
+      "excerpt": "We see this all the time on decks, patio trim, gates, and outdoor wood features that have taken years of UV, heat cycling, and uneven wetting. One corner stays damp from overspray or runoff, the rest gets baked dry, and suddenly the finish is failing in three different ways at once. On this job, the homeowner wanted the whole area to feel usable and intentional again, not just \u201cless gray.\u201d That meant prepping the surfaces correctly, replacing the worst components, dealing with rough edges and open joints, and finishing the whole space so it looked coherent. High-ticket outdoor projects in Vegas usually win or lose in prep, not product label hype.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim/final"
+      }
+    },
+    {
+      "index": 20,
+      "article_id": "case-studies/las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems",
+      "title": "Las Vegas Case Study: Whole-House Alignment and Hardware Reset for Doors, Sliders, and Interior Function Problems",
+      "excerpt": "We see this when the small symptoms stack up: bedroom doors that don\u2019t latch, a slider that drags, a pantry door with weird reveal, strike plates that only catch on the second try, and hardware that\u2019s gotten loose from constant micro-stress. On this house, none of the issues was catastrophic, but together they made the place feel worn and slightly out of tune. The higher-ticket move was to treat the house like one system: go opening by opening, correct geometry where needed, upgrade weak hardware points, tighten the noisy or sloppy pieces, and clean up the little finish damage those problems had caused. That kind of project makes a house feel newer without pretending you remodeled it.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/case-studies.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/case-studies/las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems/final"
+      }
+    },
+    {
+      "index": 21,
+      "article_id": "niche-technical-guides/las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine",
+      "content_family": "niche-technical-guides",
+      "slug": "las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine",
+      "title": "Las Vegas Caliche and Fence Posts: Why Gates Go Out of Square Even When the Fence \u201cLooks Fine\u201d",
+      "excerpt": "What that means in plain English is this: water does not always soak in gently here. It tends to run, concentrate, and work one side of a post or wall line harder than the other. Then heat and wind take over. A gate that is even slightly out of plumb starts loading the hinge side unevenly, latch geometry drifts, and the homeowner starts doing that little \u201clift-and-shove\u201d move every time they close it. The higher-ticket jobs usually show up when the problem is not just hardware anymore, but post movement + fence-line drift + gate tuning as one connected system. We see this a lot around Vegas, and the durable fix is almost never \u201cjust throw on a new latch.\u201d",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine/final"
+      }
+    },
+    {
+      "index": 22,
+      "article_id": "niche-technical-guides/west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers",
+      "content_family": "niche-technical-guides",
+      "slug": "west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers",
+      "title": "West-Facing Doors in Las Vegas: Why Afternoon Heat Wrecks Reveals, Latches, and Closers",
+      "excerpt": "We see the same pattern over and over: the door is \u201cfine\u201d in the morning, then sticky by late afternoon, then a little loose again after dark. That is not random. Different materials move at different rates, and once the reveal is already tight or the hardware was installed a little lazy, the west-facing exposure makes the weakness obvious fast. On higher-ticket projects, the real work is not shaving the slab and hoping for the best. It is reveal correction, hinge-side anchoring, strike tuning, closer adjustment, and seal detailing so the entry behaves through the whole day, not just at one temperature. In Vegas, that kind of fix holds up a lot better than cosmetic nibbling.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers/final"
+      }
+    },
+    {
+      "index": 23,
+      "article_id": "niche-technical-guides/stucco-splash-back-in-las-vegas-why-the-bottom-12-inches-tells-you-where-the-water-is-going",
+      "content_family": "niche-technical-guides",
+      "slug": "stucco-splash-back-in-las-vegas-why-the-bottom-12-inches-tells-you-where-the-water-is-going",
+      "title": "Stucco Splash-Back in Las Vegas: Why the Bottom 12 Inches Tells You Where the Water Is Going",
+      "excerpt": "That matters because lower-wall staining is usually not a \u201cstucco problem\u201d first. It is a water-path problem. When discharge dumps too close, when sprinklers hit the wall, or when runoff repeatedly splashes the same zone, the lower finish gets hit over and over. Add monsoon downpours and the Valley\u2019s flash-flood pattern, and the weak spots show up quickly as staining, efflorescence-looking residue, damp trim ends, or softened material near transitions. The higher-ticket scopes come when that lower-wall pattern has already fed trim damage, seal failure, or interior staining nearby. Once that happens, repainting is just makeup.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/stucco-splash-back-in-las-vegas-why-the-bottom-12-inches-tells-you-where-the-water-is-going",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/stucco-splash-back-in-las-vegas-why-the-bottom-12-inches-tells-you-where-the-water-is-going/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/stucco-splash-back-in-las-vegas-why-the-bottom-12-inches-tells-you-where-the-water-is-going/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/stucco-splash-back-in-las-vegas-why-the-bottom-12-inches-tells-you-where-the-water-is-going/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/stucco-splash-back-in-las-vegas-why-the-bottom-12-inches-tells-you-where-the-water-is-going/final"
+      }
+    },
+    {
+      "index": 24,
+      "article_id": "niche-technical-guides/exterior-caulk-in-las-vegas-why-uv-and-heat-cycling-open-the-same-joint-again-and-again",
+      "content_family": "niche-technical-guides",
+      "slug": "exterior-caulk-in-las-vegas-why-uv-and-heat-cycling-open-the-same-joint-again-and-again",
+      "title": "Exterior Caulk in Las Vegas: Why UV and Heat Cycling Open the Same Joint Again and Again",
+      "excerpt": "What homeowners usually notice is not \u201csealant science.\u201d It is a crack opening back up at the trim line, around a window edge, or where two materials meet. The reason the same joint fails twice is usually simple: the movement was bigger than the original detail could handle, the prep was weak, or the joint behind the caulk was already unstable. On higher-ticket exterior packages, caulk is just one part of the job. The real scope is often joint rebuild, backer/detail correction, adjacent trim stabilization, and finish prep so the line does not split again by the next hot season. Around Vegas, that is the difference between a maintenance touch-up and a durable exterior correction.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/exterior-caulk-in-las-vegas-why-uv-and-heat-cycling-open-the-same-joint-again-and-again",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/exterior-caulk-in-las-vegas-why-uv-and-heat-cycling-open-the-same-joint-again-and-again/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/exterior-caulk-in-las-vegas-why-uv-and-heat-cycling-open-the-same-joint-again-and-again/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/exterior-caulk-in-las-vegas-why-uv-and-heat-cycling-open-the-same-joint-again-and-again/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/exterior-caulk-in-las-vegas-why-uv-and-heat-cycling-open-the-same-joint-again-and-again/final"
+      }
+    },
+    {
+      "index": 25,
+      "article_id": "niche-technical-guides/irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage",
+      "content_family": "niche-technical-guides",
+      "slug": "irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage",
+      "title": "Irrigation Overspray in Las Vegas: How a Landscaping Detail Turns Into Trim Rot and Wall Damage",
+      "excerpt": "We see this one a lot in neighborhoods where the yard looks tidy and the house still has soft trim corners, bubbling paint near the garage leg, or one exterior casing that keeps going bad. The culprit is often not rain at all. It is repeated overspray or a badly aimed zone that hits the same spot every watering day. Then Vegas heat cooks the paint film, opens micro-gaps, and the moisture gets behind the coating. On bigger jobs, the fix is never just \u201creplace the bad trim.\u201d It is rebuild the damaged section, stop the wetting pattern, reseal the edge, and make the whole area durable enough for the next season. If you skip the irrigation correction, you are basically pre-ordering the same repair twice.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage/final"
+      }
+    },
+    {
+      "index": 26,
+      "article_id": "niche-technical-guides/desert-gutters-in-las-vegas-why-we-hardly-get-rain-is-exactly-how-overflow-damage-starts",
+      "content_family": "niche-technical-guides",
+      "slug": "desert-gutters-in-las-vegas-why-we-hardly-get-rain-is-exactly-how-overflow-damage-starts",
+      "title": "Desert Gutters in Las Vegas: Why \u201cWe Hardly Get Rain\u201d Is Exactly How Overflow Damage Starts",
+      "excerpt": "That is why gutter failures here are so sneaky. The system can sit mostly ignored, then one real storm arrives and every weak corner, clogged outlet, and bad discharge detail shows up at once. In Vegas, gutter work is less about surviving daily drizzle and more about handling sudden volume without dumping water down stucco, trim, or the slab edge. The higher-ticket scopes usually involve more than cleaning: they include corner reseals, pitch correction, downspout/discharge changes, and the wall-edge repairs that happen after overflow has already left its calling card. When the water goes where it is supposed to go, the whole house gets less dramatic during storm season.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/desert-gutters-in-las-vegas-why-we-hardly-get-rain-is-exactly-how-overflow-damage-starts",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/desert-gutters-in-las-vegas-why-we-hardly-get-rain-is-exactly-how-overflow-damage-starts/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/desert-gutters-in-las-vegas-why-we-hardly-get-rain-is-exactly-how-overflow-damage-starts/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/desert-gutters-in-las-vegas-why-we-hardly-get-rain-is-exactly-how-overflow-damage-starts/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/desert-gutters-in-las-vegas-why-we-hardly-get-rain-is-exactly-how-overflow-damage-starts/final"
+      }
+    },
+    {
+      "index": 27,
+      "article_id": "niche-technical-guides/freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst",
+      "content_family": "niche-technical-guides",
+      "slug": "freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst",
+      "title": "Freeze Nights in Las Vegas: Why Garage Walls, Hose Bibs, and Exterior Runs Still Burst",
+      "excerpt": "The mistake we see is assuming that because the city is desert-hot, the vulnerable runs do not matter. Then one cold snap comes in, and the weak points are exactly where you would expect: hose bibs, garage-side lines, exterior-wall plumbing, backflow assemblies, and any unprotected section exposed to wind and thin insulation. The higher-ticket projects show up when the goal is not just to limp through one freeze night, but to create a real protection package with insulation, air-sealing, access planning, and leak-response thinking built in. That is especially true on larger homes where one hidden freeze failure can turn into drywall cuts and finish work in a hurry.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst/final"
+      }
+    },
+    {
+      "index": 28,
+      "article_id": "niche-technical-guides/attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast",
+      "content_family": "niche-technical-guides",
+      "slug": "attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast",
+      "title": "Attic Heat and Smart Devices in Las Vegas: Why Cheap Power Supplies and Bad Mounting Go Flaky Fast",
+      "excerpt": "We see this with video doorbells, smart locks, outdoor cameras, garage accessories, and low-voltage gear tied into hot attic or exterior-adjacent runs. The homeowner thinks the device is defective because it drops offline, acts inconsistent, or burns through accessories faster than expected. A lot of the time, the real culprits are weak power delivery, rough mounting, door misalignment, hot locations, or sloppy exterior detailing that lets weather work the install. The higher-ticket version of this job is not \u201cswap one device.\u201d It is entry correction, power-path sanity, mounting block/detail work, weather sealing, and device placement so the system behaves like part of the house instead of a toy stuck on it.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast/final"
+      }
+    },
+    {
+      "index": 29,
+      "article_id": "niche-technical-guides/bathroom-condensation-in-las-vegas-why-a-dry-climate-still-grows-musty-corners",
+      "content_family": "niche-technical-guides",
+      "slug": "bathroom-condensation-in-las-vegas-why-a-dry-climate-still-grows-musty-corners",
+      "title": "Bathroom Condensation in Las Vegas: Why a Dry Climate Still Grows Musty Corners",
+      "excerpt": "This is one of the easiest issues to misread. People assume a desert bathroom should dry instantly, so if it smells musty they think it is just cleaning or caulk. But bathrooms create their own humidity, and if the room cannot exhaust it fast enough, the wettest surfaces stay wet in the same places over and over. On bigger jobs, the fix is not bleach and hope. It is ventilation performance, moisture-path correction, selective rebuild of compromised materials, and finish choices that can survive the room\u2019s real behavior. Around Vegas, that often means solving the invisible part of the problem before the visible part stays fixed.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/bathroom-condensation-in-las-vegas-why-a-dry-climate-still-grows-musty-corners",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/bathroom-condensation-in-las-vegas-why-a-dry-climate-still-grows-musty-corners/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/bathroom-condensation-in-las-vegas-why-a-dry-climate-still-grows-musty-corners/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/bathroom-condensation-in-las-vegas-why-a-dry-climate-still-grows-musty-corners/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/bathroom-condensation-in-las-vegas-why-a-dry-climate-still-grows-musty-corners/final"
+      }
+    },
+    {
+      "index": 30,
+      "article_id": "niche-technical-guides/recurring-drywall-cracks-in-las-vegas-why-narrow-patches-fail-on-long-hallways-and-ceiling-lines",
+      "content_family": "niche-technical-guides",
+      "slug": "recurring-drywall-cracks-in-las-vegas-why-narrow-patches-fail-on-long-hallways-and-ceiling-lines",
+      "title": "Recurring Drywall Cracks in Las Vegas: Why Narrow Patches Fail on Long Hallways and Ceiling Lines",
+      "excerpt": "That is why narrow patches fail so often here. The repair may cover the visual line for a while, but if the joint was not stabilized and floated wide enough for the sightline, the crack or halo telegraphs back through once the house goes through another hard season. We see this most on ceilings, long corridors, corners above doors, and anywhere side light makes every flaw louder. On the higher-ticket versions, the work turns into multi-joint reinforcement, wide float correction, texture blending, and finish cleanup across the full visual field, not one tiny rectangle of mud. That is the kind of repair that actually respects how Vegas houses move.",
+      "page_type": "faq_page",
+      "faq_present": true,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/niche-technical-guides.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/recurring-drywall-cracks-in-las-vegas-why-narrow-patches-fail-on-long-hallways-and-ceiling-lines",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/recurring-drywall-cracks-in-las-vegas-why-narrow-patches-fail-on-long-hallways-and-ceiling-lines/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/recurring-drywall-cracks-in-las-vegas-why-narrow-patches-fail-on-long-hallways-and-ceiling-lines/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/recurring-drywall-cracks-in-las-vegas-why-narrow-patches-fail-on-long-hallways-and-ceiling-lines/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/niche-technical-guides/recurring-drywall-cracks-in-las-vegas-why-narrow-patches-fail-on-long-hallways-and-ceiling-lines/final"
+      }
+    },
+    {
+      "index": 31,
+      "article_id": "suburb-pages/summerlin-north-handyman-high-ticket-home-repair-for-doors-walls-trim-and-exterior-wear",
+      "content_family": "suburb-pages",
+      "slug": "summerlin-north-handyman-high-ticket-home-repair-for-doors-walls-trim-and-exterior-wear",
+      "title": "Summerlin North Handyman: High-Ticket Home Repair for Doors, Walls, Trim, and Exterior Wear",
+      "excerpt": "Summerlin North sits in northwest Las Vegas, north of Summerlin Parkway, inside the broader Summerlin master-planned area, so the homes tend to show wear in a more obvious way: a door that drifts, a ceiling seam that telegraphs in afternoon light, exterior trim that opens up on the sunny side. The valley\u2019s native soils are shallow, well-drained alluvial soils with carbonates/caliche, which is why tiny movement can show up as latch misalignment, recurring drywall cracks, or fence and gate drift even when nothing looks \u201cseriously wrong.\u201d Then Summerlin\u2019s climate piles on: extreme heat, strong sun, and monsoon-season flash flooding stress caulk lines, coatings, fasteners, and drainage details all at once. Seasonal behavior is pretty predictable around here\u2014summer heat makes materials expand and dry out, then a storm day exposes every weak seam and splash-back point. We handle these as high-ticket repair packages instead of random one-offs: align the opening, reinforce the finish, correct the water path, and get the exterior sealed back up so the fix actually sticks.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-north-handyman-high-ticket-home-repair-for-doors-walls-trim-and-exterior-wear",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-north-handyman-high-ticket-home-repair-for-doors-walls-trim-and-exterior-wear/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-north-handyman-high-ticket-home-repair-for-doors-walls-trim-and-exterior-wear/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-north-handyman-high-ticket-home-repair-for-doors-walls-trim-and-exterior-wear/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-north-handyman-high-ticket-home-repair-for-doors-walls-trim-and-exterior-wear/final"
+      }
+    },
+    {
+      "index": 32,
+      "article_id": "suburb-pages/summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work",
+      "content_family": "suburb-pages",
+      "slug": "summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work",
+      "title": "Summerlin West Handyman: High-Ticket Repair Packages for Sun-Blasted Exteriors, Trim, and Finish Work",
+      "excerpt": "Summerlin sits on the west side of Las Vegas near Red Rock, and that west-valley exposure matters because the broader Las Vegas climate brings abundant sunshine, triple-digit summer heat, and monsoon-season storm swings that are rough on caulk, paint, door hardware, and outdoor wood. Underneath, the valley\u2019s native soils are shallow, well-drained alluvial soils with carbonates/caliche, so even small movement can telegraph as sticking doors, recurring wall cracks, or gates that go just a little out of square. In Summerlin West, that usually shows up on the exterior first: dried-out trim joints, patchy stucco touchups, gate sag, and wall repairs that look fine until late-afternoon light hits them sideways. Summer is the punishing season here, then storm bursts come through and reveal the weak seams\u2014so the durable fix is usually a high-ticket package that handles alignment, sealing, finish blending, and water-path correction together instead of piecemeal.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work/final"
+      }
+    },
+    {
+      "index": 33,
+      "article_id": "suburb-pages/summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear",
+      "content_family": "suburb-pages",
+      "slug": "summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear",
+      "title": "Summerlin South Handyman: High-Ticket Repair Packages for Luxury Homes, Tight Finishes, and Desert Wear",
+      "excerpt": "Summerlin sits on the western rim of the Las Vegas Valley, and Summerlin South carries a distinctly upscale housing mix, including luxury enclaves like The Ridges, so repairs have to look clean under bright light and hold up under heavy sun exposure. Underneath, the valley\u2019s native soils are shallow, well-drained alluvial soils with carbonates/caliche, which is why small movement can show up as drifting doors, recurring drywall cracks, or gates that go a little out of square even when the house feels structurally fine. Then the climate does the rest: triple-digit summer heat, strong UV, and monsoon-season storm swings dry out sealants, stress trim joints, and expose any weak drainage detail in a hurry. Around here, the durable fix is usually a high-ticket bundled scope: tune the openings, reinforce the finish work, correct the water path, and blend everything so it doesn\u2019t look like three different repair crews took a crack at it.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear/final"
+      }
+    },
+    {
+      "index": 34,
+      "article_id": "suburb-pages/queensridge-handyman-high-ticket-repair-work-for-luxury-finishes-entry-systems-and-exterior-wear",
+      "content_family": "suburb-pages",
+      "slug": "queensridge-handyman-high-ticket-repair-work-for-luxury-finishes-entry-systems-and-exterior-wear",
+      "title": "Queensridge Handyman: High-Ticket Repair Work for Luxury Finishes, Entry Systems, and Exterior Wear",
+      "excerpt": "Queensridge sits in the west Las Vegas market with a distinctly upscale housing mix, and that changes the repair standard: a patch halo in hallway light, a gate that drags a touch, or a front-door reveal that\u2019s off by a hair stands out fast. The valley\u2019s native soils are shallow, well-drained alluvial soils with carbonates/caliche, so tiny movement can show up as latch drift, recurring wall cracks, and fence or gate misalignment even when nothing looks dramatic. Then Vegas climate piles on: extreme heat, strong UV, and monsoon-season flash flooding stress caulk lines, coatings, hardware, and drainage details, especially on exposed exterior elevations. Around Queensridge, that usually means higher-ticket bundled work\u2014entry tuning, finish blending, trim correction, and water-control fixes done together so the home doesn\u2019t feel like three different repairs happened in three different years.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/queensridge-handyman-high-ticket-repair-work-for-luxury-finishes-entry-systems-and-exterior-wear",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/queensridge-handyman-high-ticket-repair-work-for-luxury-finishes-entry-systems-and-exterior-wear/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/queensridge-handyman-high-ticket-repair-work-for-luxury-finishes-entry-systems-and-exterior-wear/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/queensridge-handyman-high-ticket-repair-work-for-luxury-finishes-entry-systems-and-exterior-wear/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/queensridge-handyman-high-ticket-repair-work-for-luxury-finishes-entry-systems-and-exterior-wear/final"
+      }
+    },
+    {
+      "index": 35,
+      "article_id": "suburb-pages/lone-mountain-handyman-high-ticket-repair-packages-for-long-exterior-runs-gates-and-finish-work-that-shows",
+      "content_family": "suburb-pages",
+      "slug": "lone-mountain-handyman-high-ticket-repair-packages-for-long-exterior-runs-gates-and-finish-work-that-shows",
+      "title": "Lone Mountain Handyman: High-Ticket Repair Packages for Long Exterior Runs, Gates, and Finish Work That Shows",
+      "excerpt": "What we see up there is different from a tighter in-town tract: longer side yards, bigger perimeter runs, driveway gates that get fussy, and interior finish issues that stand out because the homes often have cleaner sightlines and stronger natural light. Underneath, the valley\u2019s native soils are shallow, well-drained alluvial soils with carbonates/caliche, so small movement can still show up as sticking doors, recurring drywall cracks, and fence drift even when nothing looks dramatic. Then Vegas weather does the rest\u2014extreme heat, strong sun, wind, and monsoon-season storm bursts stress caulk lines, hardware, coatings, and drainage details all at once. In Lone Mountain, the durable fix is usually a high-ticket bundled scope: tune the openings, stabilize the wall finish, reset the exterior hardware, and correct the water path so the same symptom doesn\u2019t come right back after the next hot spell.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/lone-mountain-handyman-high-ticket-repair-packages-for-long-exterior-runs-gates-and-finish-work-that-shows",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/lone-mountain-handyman-high-ticket-repair-packages-for-long-exterior-runs-gates-and-finish-work-that-shows/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/lone-mountain-handyman-high-ticket-repair-packages-for-long-exterior-runs-gates-and-finish-work-that-shows/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/lone-mountain-handyman-high-ticket-repair-packages-for-long-exterior-runs-gates-and-finish-work-that-shows/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/lone-mountain-handyman-high-ticket-repair-packages-for-long-exterior-runs-gates-and-finish-work-that-shows/final"
+      }
+    },
+    {
+      "index": 36,
+      "article_id": "suburb-pages/angel-park-handyman-high-ticket-repair-packages-for-west-side-homes-gates-trim-and-finish-work",
+      "content_family": "suburb-pages",
+      "slug": "angel-park-handyman-high-ticket-repair-packages-for-west-side-homes-gates-trim-and-finish-work",
+      "title": "Angel Park Handyman: High-Ticket Repair Packages for West-Side Homes, Gates, Trim, and Finish Work",
+      "excerpt": "Angel Park is an established master-planned west Las Vegas neighborhood known for golf, open space, and single-family homes, so repairs tend to be visible: courtyard gates that drag, long stucco lines that show every patch, and exterior trim that looks cooked by late-day sun. Underneath, the valley\u2019s native soils are shallow, well-drained alluvial soils with carbonates/caliche, which is why small movement can show up as latch drift, recurring drywall cracks, and fence sections going just a little out of square. Then Vegas does its usual number on the materials: extreme heat, strong UV, and monsoon-season storm bursts dry out sealants, stress hardware, and expose weak drainage details fast. Seasonally, summer bakes the finishes and storm days reveal the weak seams, so the durable fix is usually a bundled scope\u2014align the openings, reinforce the finish work, correct the water path, and seal it back up properly. Most of the parts for this kind of work\u2014hinges, sealants, trim stock, fasteners, patch materials\u2014are easy enough to source on this side of town, but the clean finish match is where the real craft shows.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/angel-park-handyman-high-ticket-repair-packages-for-west-side-homes-gates-trim-and-finish-work",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/angel-park-handyman-high-ticket-repair-packages-for-west-side-homes-gates-trim-and-finish-work/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/angel-park-handyman-high-ticket-repair-packages-for-west-side-homes-gates-trim-and-finish-work/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/angel-park-handyman-high-ticket-repair-packages-for-west-side-homes-gates-trim-and-finish-work/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/angel-park-handyman-high-ticket-repair-packages-for-west-side-homes-gates-trim-and-finish-work/final"
+      }
+    },
+    {
+      "index": 37,
+      "article_id": "suburb-pages/desert-shores-handyman-high-ticket-repair-packages-for-lakefront-wear-gates-trim-and-finish-work",
+      "content_family": "suburb-pages",
+      "slug": "desert-shores-handyman-high-ticket-repair-packages-for-lakefront-wear-gates-trim-and-finish-work",
+      "title": "Desert Shores Handyman: High-Ticket Repair Packages for Lakefront Wear, Gates, Trim, and Finish Work",
+      "excerpt": "Desert Shores is a planned northwest Las Vegas community organized around a water-oriented recreation area and four man-made lakes, with a mix of single-family homes, townhomes, condos, and upscale lakefront properties. That changes the repair pattern a bit: in addition to the normal Vegas issues, we see more gate and hardware corrosion, trim wear around moisture-prone edges, and exterior details that need to look clean from multiple sightlines. Underneath, the valley\u2019s native soils are still shallow, well-drained alluvial soils with carbonate-rich caliche, so tiny movement can show up as sticking doors, recurring wall cracks, and fence or gate drift even when the house looks solid overall. Then the climate does its usual number on materials \u2014 triple-digit heat, strong sun, gusty winds, and monsoon-season storm bursts \u2014 so the durable fix is usually a bigger package: tune the openings, reinforce the finish work, correct the water path, and reseal the exterior before the same symptom comes right back.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/desert-shores-handyman-high-ticket-repair-packages-for-lakefront-wear-gates-trim-and-finish-work",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/desert-shores-handyman-high-ticket-repair-packages-for-lakefront-wear-gates-trim-and-finish-work/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/desert-shores-handyman-high-ticket-repair-packages-for-lakefront-wear-gates-trim-and-finish-work/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/desert-shores-handyman-high-ticket-repair-packages-for-lakefront-wear-gates-trim-and-finish-work/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/desert-shores-handyman-high-ticket-repair-packages-for-lakefront-wear-gates-trim-and-finish-work/final"
+      }
+    },
+    {
+      "index": 38,
+      "article_id": "suburb-pages/rancho-handyman-high-ticket-repair-packages-for-older-las-vegas-homes-trim-walls-and-doors",
+      "content_family": "suburb-pages",
+      "slug": "rancho-handyman-high-ticket-repair-packages-for-older-las-vegas-homes-trim-walls-and-doors",
+      "title": "Rancho Handyman: High-Ticket Repair Packages for Older Las Vegas Homes, Trim, Walls, and Doors",
+      "excerpt": "Rancho is a central-west Las Vegas area near Rancho Drive, and that older-home profile changes the repair pattern right away: more trim movement, more wall-finish inconsistency, more doors that have drifted a little over time, and more exterior details that show their age in hard sunlight. The valley\u2019s native soils are shallow, well-drained alluvial soils with carbonate-rich caliche, which is one reason small movement can telegraph as latch misalignment, recurring cracks, and fence drift even when the house feels basically sound. Then Las Vegas climate piles on: extreme summer heat, strong sun, and monsoon-season flash flooding stress sealants, coatings, fasteners, and drainage details all at once. Around Rancho, the durable fix is usually a high-ticket bundled scope\u2014align the openings, reinforce the finish work, rebuild the tired trim, and correct the water path so the same symptom doesn\u2019t come right back after the next hot stretch.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/rancho-handyman-high-ticket-repair-packages-for-older-las-vegas-homes-trim-walls-and-doors",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/rancho-handyman-high-ticket-repair-packages-for-older-las-vegas-homes-trim-walls-and-doors/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/rancho-handyman-high-ticket-repair-packages-for-older-las-vegas-homes-trim-walls-and-doors/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/rancho-handyman-high-ticket-repair-packages-for-older-las-vegas-homes-trim-walls-and-doors/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/rancho-handyman-high-ticket-repair-packages-for-older-las-vegas-homes-trim-walls-and-doors/final"
+      }
+    },
+    {
+      "index": 39,
+      "article_id": "suburb-pages/downtown-las-vegas-handyman-high-ticket-repair-packages-for-historic-homes-urban-properties-and-finish-work-that-shows",
+      "content_family": "suburb-pages",
+      "slug": "downtown-las-vegas-handyman-high-ticket-repair-packages-for-historic-homes-urban-properties-and-finish-work-that-shows",
+      "title": "Downtown Las Vegas Handyman: High-Ticket Repair Packages for Historic Homes, Urban Properties, and Finish Work That Shows",
+      "excerpt": "Downtown Las Vegas is the city\u2019s urban core, with distinct districts and a walkable, mixed-use character, so repair work tends to be more visible and less forgiving than in newer outer neighborhoods. Fremont East alone is called out by the city as a pedestrian-friendly downtown hotspot, and the city\u2019s downtown planning framework is built around multiple districts and neighborhood centers rather than one uniform housing pattern. That matters for handyman work: older finishes, patch-on-patch wall surfaces, worn trim transitions, and doors that have drifted over time all show fast under downtown lighting and tighter lot layouts. Underneath, the valley still sits on shallow, well-drained alluvial soils with carbonate-rich caliche, so small movement can telegraph as latch misalignment, recurring cracks, and gate drift even when the structure feels basically fine.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/downtown-las-vegas-handyman-high-ticket-repair-packages-for-historic-homes-urban-properties-and-finish-work-that-shows",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/downtown-las-vegas-handyman-high-ticket-repair-packages-for-historic-homes-urban-properties-and-finish-work-that-shows/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/downtown-las-vegas-handyman-high-ticket-repair-packages-for-historic-homes-urban-properties-and-finish-work-that-shows/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/downtown-las-vegas-handyman-high-ticket-repair-packages-for-historic-homes-urban-properties-and-finish-work-that-shows/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/downtown-las-vegas-handyman-high-ticket-repair-packages-for-historic-homes-urban-properties-and-finish-work-that-shows/final"
+      }
+    },
+    {
+      "index": 40,
+      "article_id": "suburb-pages/centennial-hills-handyman-high-ticket-repair-packages-for-bigger-homes-exterior-wear-and-whole-house-punch-lists",
+      "content_family": "suburb-pages",
+      "slug": "centennial-hills-handyman-high-ticket-repair-packages-for-bigger-homes-exterior-wear-and-whole-house-punch-lists",
+      "title": "Centennial Hills Handyman: High-Ticket Repair Packages for Bigger Homes, Exterior Wear, and Whole-House Punch Lists",
+      "excerpt": "Centennial Hills is positioned as a spacious, family-friendly northwest Las Vegas community with newer housing and room to spread out, and that changes the repair pattern a bit. Instead of one tiny isolated problem, we usually see whole-house punch-list work: upstairs drywall seams showing in hallway light, exterior trim opening on the hot side, garage-to-house doors drifting, and gates getting fussy after a windy stretch. Underneath, the valley\u2019s native soils are shallow, well-drained alluvial soils with carbonates/caliche, so small movement can still telegraph as latch misalignment, recurring cracks, and fence drift even in newer homes. Then the climate does what Vegas always does\u2014extreme heat, strong sun, and monsoon-season flash flooding stress sealants, hardware, coatings, and drainage details all at once. Around Centennial Hills, the durable fix is usually a bundled high-ticket scope: tighten the openings, reinforce the finishes, correct the water path, and clean up the exterior details so the house feels maintained instead of patched in pieces.",
+      "page_type": "general_article",
+      "faq_present": false,
+      "table_present": true,
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/articles/suburb-pages.md",
+      "paths": {
+        "base": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/centennial-hills-handyman-high-ticket-repair-packages-for-bigger-homes-exterior-wear-and-whole-house-punch-lists",
+        "work": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/centennial-hills-handyman-high-ticket-repair-packages-for-bigger-homes-exterior-wear-and-whole-house-punch-lists/work",
+        "metadata": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/centennial-hills-handyman-high-ticket-repair-packages-for-bigger-homes-exterior-wear-and-whole-house-punch-lists/metadata",
+        "media": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/centennial-hills-handyman-high-ticket-repair-packages-for-bigger-homes-exterior-wear-and-whole-house-punch-lists/media",
+        "final": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/outputs/suburb-pages/centennial-hills-handyman-high-ticket-repair-packages-for-bigger-homes-exterior-wear-and-whole-house-punch-lists/final"
+      }
+    }
+  ]
+}

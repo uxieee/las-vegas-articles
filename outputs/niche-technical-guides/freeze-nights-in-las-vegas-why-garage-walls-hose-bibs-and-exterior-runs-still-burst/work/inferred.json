@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Freeze Nights : Why Garage Walls, Hose Bibs, and Exterior Runs Still Burst",
+  "excerpt": "The mistake we see is assuming that because the city is desert-hot, the vulnerable runs do not matter. Then one cold snap comes in, and the weak points are exactly where you would expect: hose bibs, garage-side lines, exterior-wall plumbing, backflow assemblies, and any unprotected section exposed to wind and thin insulation. The higher-ticket projects show up when the goal is not just to limp through one freeze night, but to create a real protection package with insulation, air-sealing, access planning, and leak-response thinking built in. That is especially true on larger homes where one hidden freeze failure can turn into drywall cuts and finish work in a hurry.",
+  "faq_pairs": [
+    {
+      "question": "Do people really need to drip pipes here?",
+      "answer": "The City of Las Vegas says homeowners can prepare by insulating outdoor pipes and allowing them to drip to avoid freezing."
+    },
+    {
+      "question": "Where do pipes usually freeze first?",
+      "answer": "Outdoor lines, garage-adjacent runs, and plumbing near exterior walls are common weak spots."
+    },
+    {
+      "question": "What makes this a high-ticket project?",
+      "answer": "When the scope includes multiple vulnerable areas, insulation upgrades, air sealing, and prevention planning across the house."
+    }
+  ],
+  "markdown_tables": [
+    "| Technical symptom | What it usually means | When it becomes a bigger job |\n| ----- | ----- | ----- |\n| Uninsulated hose bibs | First-line freeze vulnerability | Exterior freeze-prep package |\n| Garage-side plumbing | Cold wall + weak air sealing | Insulation + draft-control scope |\n| Pipes in exterior cabinets | Limited warm-air circulation | Cabinet/airflow correction package |\n| Repeated cold-weather worry | House lacks a defined freeze plan | Whole-home prep project |\n| Past leak on freeze week | Known weak point still exists | Permanent protection upgrade |"
+  ]
+}

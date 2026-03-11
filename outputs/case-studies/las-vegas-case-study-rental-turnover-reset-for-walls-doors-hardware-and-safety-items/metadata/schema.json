@@ -1,0 +1,130 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Case Study: Rental Turnover Reset for Walls, Doors, Hardware, and Safety Items",
+    "description": "Vegas turnovers get expensive when the wear pattern is layered. Drywall dings are one thing, but once you add drifting doors, sloppy hardware",
+    "abstract": "Vegas turnovers get expensive when the wear pattern is layered. Drywall dings are one thing, but once you add drifting doors, sloppy hardware, squeaky spots, sun-baked exterior touchpoints, and old caulk joints",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/64eed6db-3e2b-47ae-b5ad-8676990834f8.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/dfe58527-ce71-402a-9e41-0449069fa46a.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items",
+    "datePublished": "2026-03-08",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "door repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why do turnovers turn into high-ticket jobs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because lots of medium-size items stack up fast once you want the unit to show clean and function well."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What gets missed most often?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Door alignment, hardware quality, trim gaps, and visible patch blending."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why bundle turnover work instead of sending different trades?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It keeps the finish consistent, cuts down repeat visits, and helps the unit get back on the market cleaner."
+        }
+      }
+    ]
+  }
+]

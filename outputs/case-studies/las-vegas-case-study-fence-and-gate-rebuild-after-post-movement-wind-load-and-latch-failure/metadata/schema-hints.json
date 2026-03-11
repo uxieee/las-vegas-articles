@@ -1,0 +1,41 @@
+{
+  "page_type": "faq_page",
+  "primary_topic": "Las Vegas Case Study",
+  "about": [
+    "fence repair",
+    "Las Vegas repair",
+    "gate alignment",
+    "Las Vegas case study"
+  ],
+  "mentions": [
+    "Las Vegas",
+    "Nevada",
+    "Las Vegas repair",
+    "gate alignment",
+    "Las Vegas case study"
+  ],
+  "answer_summary": "Around Las Vegas, we see this when posts sit in hard, caliche-heavy ground and runoff works one side of the footing more than the other. Then summer heat dries and twists the wood, wind keeps loading the loose side",
+  "speakable_summary": "Around Las Vegas, we see this when posts sit in hard, caliche-heavy ground and runoff works one side of the footing more than the other",
+  "questions_answered": [
+    "Why do Vegas gates start sagging so fast?",
+    "Can you just replace the latch or hinges?",
+    "What makes this a high-ticket scope?"
+  ],
+  "service_area": [
+    "Summerlin North",
+    "Summerlin South",
+    "Summerlin West",
+    "Queensridge",
+    "Centennial Hills",
+    "Lone Mountain",
+    "Angel Park",
+    "Desert Shores",
+    "Rancho",
+    "Downtown Las Vegas"
+  ],
+  "article_section_labels": [
+    "Frequently Asked Questions",
+    "Related Guides You Might Find Helpful",
+    "Cost and Scope Table"
+  ]
+}

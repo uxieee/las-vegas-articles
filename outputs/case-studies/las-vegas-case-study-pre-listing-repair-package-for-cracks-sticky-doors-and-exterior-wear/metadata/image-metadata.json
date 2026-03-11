@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "role": "hero",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Karen Fox_job_90de8480924d48b29cb1f9ff96fc1c98_1.jpg",
+      "exif_title": "Las Vegas Case Study: Pre-Listing Repair Package for Cracks, Sticky Doors, and Exterior Wear project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the hero image for the article Las Vegas Case Study: Pre-Listing Repair Package for Cracks, Sticky Doors, and Exterior Wear.",
+      "alt_text": "Primary job-site repair detail from a Local Handyman project in Las Vegas related to door repair.",
+      "caption": "Local project detail anchoring this door repair guide.",
+      "keywords": [
+        "door repair",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    },
+    {
+      "role": "support",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Thomas Hontz_job_4ad178115cfb45669a3a071b9957a383_3.jpg",
+      "exif_title": "Las Vegas Case Study: Pre-Listing Repair Package for Cracks, Sticky Doors, and Exterior Wear project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the support image for the article Las Vegas Case Study: Pre-Listing Repair Package for Cracks, Sticky Doors, and Exterior Wear.",
+      "alt_text": "Additional job-site repair detail from a Local Handyman project in Las Vegas related to door repair.",
+      "caption": "Additional Las Vegas project detail supporting this door repair guide.",
+      "keywords": [
+        "door repair",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    }
+  ]
+}

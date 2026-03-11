@@ -1,0 +1,130 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Case Study: Smart Home and Entry Upgrade with Door Alignment, Strike Correction, and Finish Cleanup",
+    "description": "We run into this a lot in Las Vegas. People want upgraded locks, cameras, and entry hardware, but the door already rubs a little",
+    "abstract": "We run into this a lot in Las Vegas. People want upgraded locks, cameras, and entry hardware, but the door already rubs a little, the strike is barely catching, and the trim or seal details are tired from heat and exposure",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/a992e271-5965-416b-8f24-d0143825f6d5.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/165fa0ae-7e0e-40e3-bb2d-ad43c4679276.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup",
+    "datePublished": "2026-03-03",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "door repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      },
+      {
+        "@type": "Thing",
+        "name": "entry hardware upgrades"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      },
+      {
+        "@type": "Thing",
+        "name": "entry hardware upgrades"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why does a smart lock care if the door is slightly off?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because electronic hardware still depends on a clean latch line and consistent alignment to work smoothly."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why bundle door tuning with a smart install?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It prevents the new hardware from inheriting all the old entry problems."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this a high-ticket scope?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When the work includes door correction, finish cleanup, sealing, and multiple entry devices together."
+        }
+      }
+    ]
+  }
+]

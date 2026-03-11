@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Stucco Splash-Back : Why the Bottom 12 Inches Tells You Where the Water Is Going",
+  "excerpt": "That matters because lower-wall staining is usually not a \u201cstucco problem\u201d first. It is a water-path problem. When discharge dumps too close, when sprinklers hit the wall, or when runoff repeatedly splashes the same zone, the lower finish gets hit over and over. Add monsoon downpours and the Valley\u2019s flash-flood pattern, and the weak spots show up quickly as staining, efflorescence-looking residue, damp trim ends, or softened material near transitions. The higher-ticket scopes come when that lower-wall pattern has already fed trim damage, seal failure, or interior staining nearby. Once that happens, repainting is just makeup.",
+  "faq_pairs": [
+    {
+      "question": "Why does the bottom of the wall get ugly first?",
+      "answer": "Because that is where repeated splash-back and overspray concentrate, especially when runoff is not being retained or redirected properly."
+    },
+    {
+      "question": "Is this just cosmetic?",
+      "answer": "Sometimes at first. Not once it starts feeding trim, sealant, or interior finish damage."
+    },
+    {
+      "question": "What makes this a bigger project?",
+      "answer": "When the repair has to include discharge correction, lower-wall detailing, adjacent trim rebuild, and finish recovery."
+    }
+  ],
+  "markdown_tables": [
+    "| Technical symptom | What it usually means | When it becomes a bigger job |\n| ----- | ----- | ----- |\n| Repeating stain band near slab | Water is splashing the same zone repeatedly | Water-control + finish correction package |\n| Soft trim at adjacent corner | Stucco issue is feeding wood failure | Exterior rebuild scope |\n| Dark streaking after storms | Discharge/splash-back is still active | Drainage correction first |\n| Patchy lower repaint failure | Surface was coated without fixing moisture pattern | Rebuild + reseal + finish prep |\n| Interior spot behind same wall | Exterior path has crossed indoors | Exterior/interior linked repair |"
+  ]
+}

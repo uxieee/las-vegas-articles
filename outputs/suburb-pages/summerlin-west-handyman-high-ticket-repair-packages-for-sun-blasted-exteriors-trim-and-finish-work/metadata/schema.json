@@ -1,0 +1,91 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Summerlin West Handyman: High-Ticket Repair Packages for Sun-Blasted Exteriors, Trim, and Finish Work",
+    "description": "Summerlin sits on the west side of Las Vegas near Red Rock, and that west-valley exposure matters because the broader Las Vegas climate brings abundant sun",
+    "abstract": "Summerlin sits on the west side of Las Vegas near Red Rock, and that west-valley exposure matters because the broader Las Vegas climate brings abundant sunshine, triple-digit summer heat",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/55649c8d-8b14-437d-8149-4e76b284f12e.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/36eec15f-4e66-441c-a336-a9c1ccfbf5fb.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work",
+    "datePublished": "2026-02-24",
+    "articleSection": [
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "trim repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Summerlin handyman"
+      },
+      {
+        "@type": "Thing",
+        "name": "service area repairs"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Summerlin handyman"
+      },
+      {
+        "@type": "Thing",
+        "name": "service area repairs"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  }
+]

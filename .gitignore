@@ -1,0 +1,6 @@
+.env
+.DS_Store
+articles/
+business.md
+photos/
+scripts/

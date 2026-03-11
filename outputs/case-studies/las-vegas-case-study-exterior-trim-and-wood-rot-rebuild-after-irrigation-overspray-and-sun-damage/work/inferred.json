@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage",
+  "excerpt": "Vegas rot is sneaky because everybody assumes dry climate means dry wood. What actually happens is repeated wetting at the same trim ends, garage legs, or sill corners, then the heat bakes the coatings until water slips behind them and stays there longer than it should. On this house, the soft spots were low and predictable: trim near irrigation, lower corners near runoff, and one sunny elevation where every joint had opened up. The high-ticket scope came from cutting back to sound material, rebuilding the weak areas, sealing all faces, and correcting the wetting pattern that was feeding the damage in the first place. We see a lot of exterior work around Vegas fail because people repair the wood and leave the water routine exactly the same.",
+  "faq_pairs": [
+    {
+      "question": "How does wood rot happen in a desert city?",
+      "answer": "Repeated irrigation overspray, splash-back, and failed paint/caulk details can keep small areas wet enough to rot."
+    },
+    {
+      "question": "Can you just fill the soft section?",
+      "answer": "On higher-ticket projects, that usually doesn\u2019t hold. The bad wood has to be cut back to solid material."
+    },
+    {
+      "question": "What makes this a bigger job?",
+      "answer": "Multiple trim zones, rebuild work, sealing, and correcting the moisture source all in one scope."
+    }
+  ],
+  "markdown_tables": [
+    "| Case study snapshot | What was going on | How the scope was handled |\n| ----- | ----- | ----- |\n| Lower trim corners | Soft wood and bubbling paint | Removed failed sections and rebuilt to sound material |\n| Garage leg / casing areas | Overspray-fed deterioration | Replaced weak sections and corrected wetting source |\n| Open joints | Caulk failure from heat and UV | Re-sealed critical joints after rebuild |\n| Finish prep | Multiple elevations looking tired | Scoped as rebuild + seal + paint-ready package |\n| Homeowner goal | Stop chasing the same soft spots every season | Treated as a full exterior durability project |"
+  ]
+}

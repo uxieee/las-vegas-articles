@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Case Study: Multi-Room Drywall and Ceiling Crack Repair for Reappearing Seams",
+  "excerpt": "We see this all the time in Las Vegas homes that have had a few quick cosmetic repairs layered over the years. Small movement in the house shows first at the drywall joints, then heat cycling keeps stressing the same weak seams until the crack comes back exactly where the old patch was hiding. On this project, the homeowner was tired of paying for the same hallway and ceiling lines every year, especially once the afternoon light hit and made every halo show up. The bigger-ticket fix was widening the scope on purpose: reinforce the problem joints, float them wide enough to disappear, blend the texture properly, and stop pretending a little spackle knife was going to beat desert physics. Once the work was treated as a system instead of a handful of spots, the finish finally looked settled.",
+  "faq_pairs": [
+    {
+      "question": "Why do the same cracks keep coming back?",
+      "answer": "Usually because the joint was skimmed cosmetically instead of reinforced and floated to handle movement."
+    },
+    {
+      "question": "Why is hallway light so brutal on patches?",
+      "answer": "Long sightlines and hard desert light make every edge and texture mismatch show up."
+    },
+    {
+      "question": "What makes this a high-ticket drywall job?",
+      "answer": "When it spans multiple rooms, ceilings, and recurring problem joints instead of one isolated patch."
+    }
+  ],
+  "markdown_tables": [
+    "| Case study snapshot | What was going on | How the scope was handled |\n| ----- | ----- | ----- |\n| Hallway seams | Reappearing cracks and visible patch halos | Reinforced and wide-floated for clean sightlines |\n| Ceiling joints | Seasonal line movement | Stabilized joints and blended finish wider |\n| Corners above doors | Stress cracks telegraphing from openings | Repaired and tied back into adjacent finish |\n| Prior patch work | Too narrow and too obvious in side light | Reworked for smoother blend and better texture match |\n| Homeowner goal | Stop doing the same \u201ctouch-up\u201d every year | Scoped as a multi-room finish correction package |"
+  ]
+}

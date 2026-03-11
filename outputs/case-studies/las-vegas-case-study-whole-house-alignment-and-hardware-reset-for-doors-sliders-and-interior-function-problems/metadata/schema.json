@@ -1,0 +1,130 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Case Study: Whole-House Alignment and Hardware Reset for Doors, Sliders, and Interior Function Problems",
+    "description": "We see this when the small symptoms stack up: bedroom doors that don\u2019t latch, a slider that drags, a pantry door with weird reveal",
+    "abstract": "We see this when the small symptoms stack up: bedroom doors that don\u2019t latch, a slider that drags, a pantry door with weird reveal, strike plates that only catch on the second try",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/dac4ec09-ae4d-4d8a-9c73-1af84ea15279.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/beda9cb7-1b59-4ae9-be2c-53205738931d.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems",
+    "datePublished": "2026-02-24",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "door repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why do several doors start acting up at the same time?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because the same movement, hardware fatigue, and heat stress patterns often affect multiple openings across the house."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is this better as one package or separate service calls?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "One package, usually. It keeps the adjustments consistent and catches related issues in one pass."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes it high-ticket?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The number of openings, the detail work, and the finish cleanup that goes with a full-house correction."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Caliche and Fence Posts: Why Gates Go Out of Square Even When the Fence \u201cLooks Fine\u201d",
+    "description": "What that means in plain English is this: water does not always soak in gently here. It tends to run, concentrate",
+    "abstract": "What that means in plain English is this: water does not always soak in gently here. It tends to run, concentrate, and work one side of a post or wall line harder than the other. Then heat and wind take over",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/62a8f720-4a66-4bb0-a51e-47f9fff76a68.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/6ff0dc13-1974-4962-a864-3f985635f9e9.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine",
+    "datePublished": "2026-03-04",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "fence repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "caliche soil movement"
+      },
+      {
+        "@type": "Thing",
+        "name": "gate alignment"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "caliche soil movement"
+      },
+      {
+        "@type": "Thing",
+        "name": "gate alignment"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Does caliche make fence work harder here?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The USDA soil description for the Las Vegas series identifies shallow, carbonate-rich soils with petrocalcic characteristics, which affects how water behaves and how shallow systems perform."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why do sprinklers matter so much?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The City of Las Vegas requires irrigation systems to avoid runoff and to keep overhead spray at least 24 inches away from buildings and walls to reduce damage from settling and expansion/contraction."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this a high-ticket fence job?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When the issue is no longer \u201chardware only\u201d and has spread into posts, gate geometry, and the water path feeding the movement."
+        }
+      }
+    ]
+  }
+]

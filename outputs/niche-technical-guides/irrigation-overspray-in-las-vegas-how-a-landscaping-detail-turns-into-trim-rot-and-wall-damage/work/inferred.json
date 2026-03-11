@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Irrigation Overspray : How a Landscaping Detail Turns Into Trim Rot and Wall Damage",
+  "excerpt": "We see this one a lot in neighborhoods where the yard looks tidy and the house still has soft trim corners, bubbling paint near the garage leg, or one exterior casing that keeps going bad. The culprit is often not rain at all. It is repeated overspray or a badly aimed zone that hits the same spot every watering day. Then Vegas heat cooks the paint film, opens micro-gaps, and the moisture gets behind the coating. On bigger jobs, the fix is never just \u201creplace the bad trim.\u201d It is rebuild the damaged section, stop the wetting pattern, reseal the edge, and make the whole area durable enough for the next season. If you skip the irrigation correction, you are basically pre-ordering the same repair twice.",
+  "faq_pairs": [
+    {
+      "question": "Is overspray really that big a deal?",
+      "answer": "Yes. The City\u2019s landscape guidance explicitly addresses overspray, runoff, and setback from buildings because those patterns can damage walls and structures."
+    },
+    {
+      "question": "Why is this common in a desert city?",
+      "answer": "Because irrigation is frequent enough to create repeated wetting even where rainfall is low. LVVWD also actively regulates watering schedules and water-waste practices."
+    },
+    {
+      "question": "What makes this a bigger project?",
+      "answer": "When the repair has to include damaged trim, finish failure, and the irrigation behavior feeding the problem."
+    }
+  ],
+  "markdown_tables": [
+    "| Technical symptom | What it usually means | When it becomes a bigger job |\n| ----- | ----- | ----- |\n| Trim base stays darker than surrounding areas | Repeat wetting from irrigation | Exterior rebuild + irrigation correction |\n| Bubbling paint near one corner | Moisture has moved behind coating | Replace/seal affected area |\n| One garage leg keeps rotting | Spray pattern is feeding it | Whole corner durability package |\n| Water hits wall on watering days | System violates best practice | Landscape + building-edge correction |\n| Damage repeats after prior repair | Source was never changed | Rebuild + source-control scope |"
+  ]
+}

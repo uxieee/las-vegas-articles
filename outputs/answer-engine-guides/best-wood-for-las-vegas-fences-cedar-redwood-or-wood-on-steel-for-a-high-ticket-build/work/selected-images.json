@@ -1,0 +1,47 @@
+{
+  "selected": [
+    {
+      "path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Nicki Thompson_job_f462bf1cca6f4d8186f0acbb8f5d0d4b_6.jpg",
+      "score": 1000,
+      "reasons": [
+        "Agent selected locked hero image",
+        "work bucket",
+        "portrait orientation"
+      ],
+      "width": 2268,
+      "height": 4032,
+      "orientation": "portrait"
+    },
+    {
+      "path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Robert Rivera_job_e9193806f2f04440a68d2e8e26fffbe7_4.jpg",
+      "score": 999,
+      "reasons": [
+        "Agent selected locked support image",
+        "work bucket",
+        "portrait orientation"
+      ],
+      "width": 2268,
+      "height": 4032,
+      "orientation": "portrait"
+    }
+  ],
+  "selection": {
+    "mode": "manual",
+    "hero_image": {
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Nicki Thompson_job_f462bf1cca6f4d8186f0acbb8f5d0d4b_6.jpg"
+    },
+    "support_image": {
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Robert Rivera_job_e9193806f2f04440a68d2e8e26fffbe7_4.jpg"
+    },
+    "rationale": {
+      "hero_image": [
+        "vision-ranked topic-first selection favors the clearest repair-context fit for this article",
+        "hero image now reflects the visible problem or assembly the guide is actually about"
+      ],
+      "support_image": [
+        "support image was chosen as the strongest complementary project photo for the same topic",
+        "the pair avoids generic skyline filler and keeps the article grounded in real repair visuals"
+      ]
+    }
+  }
+}

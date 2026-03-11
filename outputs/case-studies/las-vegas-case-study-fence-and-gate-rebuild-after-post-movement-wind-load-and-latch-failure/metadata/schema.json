@@ -1,0 +1,130 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Case Study: Fence and Gate Rebuild After Post Movement, Wind Load, and Latch Failure",
+    "description": "Around Las Vegas, we see this when posts sit in hard, caliche-heavy ground and runoff works one side of the footing more than the other",
+    "abstract": "Around Las Vegas, we see this when posts sit in hard, caliche-heavy ground and runoff works one side of the footing more than the other. Then summer heat dries and twists the wood, wind keeps loading the loose side",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/e2ebe1d4-b10e-4480-9e63-2f97d30fb6a8.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/3b040b2a-321d-4935-9e76-d95915d38f19.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure",
+    "datePublished": "2026-02-25",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "fence repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "gate alignment"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "gate alignment"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why do Vegas gates start sagging so fast?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Heat, wind, and slight post movement gang up on them. Once the hinge side goes a little out, the latch end tells on it fast."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you just replace the latch or hinges?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sometimes, but on bigger jobs that usually treats the symptom, not the geometry that caused it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this a high-ticket scope?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When the gate problem is tied to post correction, section rebuilds, and hardware upgrades instead of one small adjustment."
+        }
+      }
+    ]
+  }
+]

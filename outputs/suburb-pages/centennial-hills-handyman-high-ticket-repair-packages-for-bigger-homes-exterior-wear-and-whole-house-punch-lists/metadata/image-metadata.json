@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "role": "hero",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Rebecca Oliva_job_2c76917c0928467492f9b2fcbf60177b_1.jpg",
+      "exif_title": "Centennial Hills Handyman: High-Ticket Repair Packages for Bigger Homes, Exterior Wear, and Whole-House Punch Lists project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the hero image for the article Centennial Hills Handyman: High-Ticket Repair Packages for Bigger Homes, Exterior Wear, and Whole-House Punch Lists.",
+      "alt_text": "Primary job-site repair detail from a Local Handyman project in Las Vegas related to home repair work.",
+      "caption": "Local project detail anchoring this home repair work guide.",
+      "keywords": [
+        "home repair work",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    },
+    {
+      "role": "support",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_5e046093be724b40a5c02dce8acbdb3a_4.jpg",
+      "exif_title": "Centennial Hills Handyman: High-Ticket Repair Packages for Bigger Homes, Exterior Wear, and Whole-House Punch Lists project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the support image for the article Centennial Hills Handyman: High-Ticket Repair Packages for Bigger Homes, Exterior Wear, and Whole-House Punch Lists.",
+      "alt_text": "Additional job-site repair detail from a Local Handyman project in Las Vegas related to home repair work.",
+      "caption": "Additional Las Vegas project detail supporting this home repair work guide.",
+      "keywords": [
+        "home repair work",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    }
+  ]
+}

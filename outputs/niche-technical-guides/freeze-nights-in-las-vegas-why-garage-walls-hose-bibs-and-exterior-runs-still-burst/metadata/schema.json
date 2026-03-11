@@ -1,0 +1,122 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Freeze Nights in Las Vegas: Why Garage Walls, Hose Bibs, and Exterior Runs Still Burst",
+    "description": "The mistake we see is assuming that because the city is desert-hot, the vulnerable runs do not matter. Then one cold snap comes in",
+    "abstract": "The mistake we see is assuming that because the city is desert-hot, the vulnerable runs do not matter. Then one cold snap comes in, and the weak points are exactly where you would expect: hose bibs, garage-side lines",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/87106532-7594-4caa-9265-16ed3352fb50.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/486bae0a-ac36-4161-9d86-4c40976826d7.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst",
+    "datePublished": "2026-03-01",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "home repair guide"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "technical repair guidance"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "technical repair guidance"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Do people really need to drip pipes here?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The City of Las Vegas says homeowners can prepare by insulating outdoor pipes and allowing them to drip to avoid freezing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where do pipes usually freeze first?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Outdoor lines, garage-adjacent runs, and plumbing near exterior walls are common weak spots."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this a high-ticket project?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When the scope includes multiple vulnerable areas, insulation upgrades, air sealing, and prevention planning across the house."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "selected": [
+    {
+      "path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Joe Courtney_job_c8e30515935e497387f253d7c1478a69_9.jpg",
+      "score": 1000,
+      "reasons": [
+        "Agent selected locked hero image",
+        "work bucket",
+        "portrait orientation"
+      ],
+      "width": 2268,
+      "height": 4032,
+      "orientation": "portrait"
+    },
+    {
+      "path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Michael Fayle_job_92673788f4b24adda4966d3545a76c41_2.jpg",
+      "score": 999,
+      "reasons": [
+        "Agent selected locked support image",
+        "work bucket",
+        "portrait orientation"
+      ],
+      "width": 3060,
+      "height": 4080,
+      "orientation": "portrait"
+    }
+  ],
+  "selection": {
+    "mode": "manual",
+    "hero_image": {
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Joe Courtney_job_c8e30515935e497387f253d7c1478a69_9.jpg"
+    },
+    "support_image": {
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Michael Fayle_job_92673788f4b24adda4966d3545a76c41_2.jpg"
+    },
+    "rationale": {
+      "hero_image": [
+        "vision-ranked topic-first selection favors the clearest repair-context fit for this article",
+        "hero image now reflects the visible problem or assembly the guide is actually about"
+      ],
+      "support_image": [
+        "support image was chosen as the strongest complementary project photo for the same topic",
+        "the pair avoids generic skyline filler and keeps the article grounded in real repair visuals"
+      ]
+    }
+  }
+}

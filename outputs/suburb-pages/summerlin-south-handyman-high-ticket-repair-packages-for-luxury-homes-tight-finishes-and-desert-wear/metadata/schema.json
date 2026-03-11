@@ -1,0 +1,91 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Summerlin South Handyman: High-Ticket Repair Packages for Luxury Homes, Tight Finishes, and Desert Wear",
+    "description": "Summerlin sits on the western rim of the Las Vegas Valley, and Summerlin South carries a distinctly upscale housing mix",
+    "abstract": "Summerlin sits on the western rim of the Las Vegas Valley, and Summerlin South carries a distinctly upscale housing mix, including luxury enclaves like The Ridges",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/e701fbe0-1f00-443a-a0f6-38fad24ad24a.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/8fc4305c-f5c6-4447-9903-72d5f1156020.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear",
+    "datePublished": "2026-02-24",
+    "articleSection": [
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "handyman services"
+      },
+      {
+        "@type": "Thing",
+        "name": "Summerlin handyman"
+      },
+      {
+        "@type": "Thing",
+        "name": "service area repairs"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Summerlin handyman"
+      },
+      {
+        "@type": "Thing",
+        "name": "service area repairs"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  }
+]

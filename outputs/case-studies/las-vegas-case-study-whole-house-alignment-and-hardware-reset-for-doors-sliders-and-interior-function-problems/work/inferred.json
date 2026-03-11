@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Case Study: Whole-House Alignment and Hardware Reset for Doors, Sliders, and Interior Function Problems",
+  "excerpt": "We see this when the small symptoms stack up: bedroom doors that don\u2019t latch, a slider that drags, a pantry door with weird reveal, strike plates that only catch on the second try, and hardware that\u2019s gotten loose from constant micro-stress. On this house, none of the issues was catastrophic, but together they made the place feel worn and slightly out of tune. The higher-ticket move was to treat the house like one system: go opening by opening, correct geometry where needed, upgrade weak hardware points, tighten the noisy or sloppy pieces, and clean up the little finish damage those problems had caused. That kind of project makes a house feel newer without pretending you remodeled it.",
+  "faq_pairs": [
+    {
+      "question": "Why do several doors start acting up at the same time?",
+      "answer": "Because the same movement, hardware fatigue, and heat stress patterns often affect multiple openings across the house."
+    },
+    {
+      "question": "Is this better as one package or separate service calls?",
+      "answer": "One package, usually. It keeps the adjustments consistent and catches related issues in one pass."
+    },
+    {
+      "question": "What makes it high-ticket?",
+      "answer": "The number of openings, the detail work, and the finish cleanup that goes with a full-house correction."
+    }
+  ],
+  "markdown_tables": [
+    "| Case study snapshot | What was going on | How the scope was handled |\n| ----- | ----- | ----- |\n| Interior doors | Multiple latch and rub issues | Tuned reveals and corrected hardware alignment |\n| Slider / larger opening | Dragging and rough operation | Adjusted hardware and cleaned up operation path |\n| Strike plates / hinges | Loose or mis-set from repeated stress | Reset and reinforced key hardware points |\n| Nearby finish damage | Minor corner cracks and scuffs around problem openings | Bundled in cleanup and repair work |\n| Homeowner goal | Make the whole house function smoothly again | Scoped as a whole-house alignment package |"
+  ]
+}

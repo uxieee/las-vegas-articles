@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Recurring Drywall Cracks : Why Narrow Patches Fail on Long Hallways and Ceiling Lines",
+  "excerpt": "That is why narrow patches fail so often here. The repair may cover the visual line for a while, but if the joint was not stabilized and floated wide enough for the sightline, the crack or halo telegraphs back through once the house goes through another hard season. We see this most on ceilings, long corridors, corners above doors, and anywhere side light makes every flaw louder. On the higher-ticket versions, the work turns into multi-joint reinforcement, wide float correction, texture blending, and finish cleanup across the full visual field, not one tiny rectangle of mud. That is the kind of repair that actually respects how Vegas houses move.",
+  "faq_pairs": [
+    {
+      "question": "Why does the crack come back in the exact same spot?",
+      "answer": "Because the underlying joint movement is still there and the earlier repair likely did not reinforce it enough."
+    },
+    {
+      "question": "Why are hallways and ceilings the worst?",
+      "answer": "Long sightlines and flat light make even small finish errors obvious."
+    },
+    {
+      "question": "What makes this high-ticket?",
+      "answer": "When the repair has to cover multiple rooms, long visual runs, and recurring problem joints instead of one little patch."
+    }
+  ],
+  "markdown_tables": [
+    "| Technical symptom | What it usually means | When it becomes a bigger job |\n| ----- | ----- | ----- |\n| Same crack returns in same line | Joint was hidden, not stabilized | Reinforced finish correction package |\n| Patch halo shows in hallway light | Repair was too narrow for the sightline | Wide-float rework |\n| Corner crack over door repeats | Opening stress is feeding finish failure | Door/wall linked correction |\n| Ceiling seam reappears seasonally | Movement cycle is outrunning cosmetic patch | Multi-area ceiling repair |\n| Many rooms show similar patterns | Housewide finish behavior, not isolated damage | Whole-house finish scope |"
+  ]
+}

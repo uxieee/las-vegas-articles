@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "West-Facing Doors : Why Afternoon Heat Wrecks Reveals, Latches, and Closers",
+  "excerpt": "We see the same pattern over and over: the door is \u201cfine\u201d in the morning, then sticky by late afternoon, then a little loose again after dark. That is not random. Different materials move at different rates, and once the reveal is already tight or the hardware was installed a little lazy, the west-facing exposure makes the weakness obvious fast. On higher-ticket projects, the real work is not shaving the slab and hoping for the best. It is reveal correction, hinge-side anchoring, strike tuning, closer adjustment, and seal detailing so the entry behaves through the whole day, not just at one temperature. In Vegas, that kind of fix holds up a lot better than cosmetic nibbling.",
+  "faq_pairs": [
+    {
+      "question": "Why is the door only bad later in the day?",
+      "answer": "Because the warm-season thermal load changes as the sun moves; afternoon exposure can push a marginal reveal into a binding reveal."
+    },
+    {
+      "question": "Is planing the door the right move?",
+      "answer": "Sometimes in a very limited way, but on better repairs the real target is the geometry and hardware load path."
+    },
+    {
+      "question": "What makes this high-ticket?",
+      "answer": "When the issue includes door alignment, hardware, seals, closer behavior, and finish cleanup instead of one simple adjustment."
+    }
+  ],
+  "markdown_tables": [
+    "| Technical symptom | What it usually means | When it becomes a bigger job |\n| ----- | ----- | ----- |\n| Top-corner bind in afternoon | Frame/reveal too tight under heat | Full door geometry correction |\n| Latch barely catches | Strike drift + hinge sag | Hardware + frame tuning package |\n| Storm door slams or bounces | Closer/backcheck not set for local conditions | Entry system reset |\n| Light gap changes through the day | Uneven movement across opening | Rebuild/tune weather edge details |\n| Multiple west-side doors act up | House pattern, not one bad door | Whole-house opening package |"
+  ]
+}

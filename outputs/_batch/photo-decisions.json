@@ -1,0 +1,845 @@
+{
+  "version": 1,
+  "articles": [
+    {
+      "article_id": "answer-engine-guides/winterizing-pipes-las-vegas-why-a-desert-city-still-busts-lines-on-freeze-nights",
+      "content_family": "answer-engine-guides",
+      "slug": "winterizing-pipes-las-vegas-why-a-desert-city-still-busts-lines-on-freeze-nights",
+      "title": "Winterizing Pipes Las Vegas: Why a Desert City Still Busts Lines on Freeze Nights",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Dale Fineberg_job_56027f14d9014e639f8e573c05047695_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Brian Mann_job_33aca1e7f21f414d98b87e749f2f4e8d_1.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "answer-engine-guides/las-vegas-bathroom-mold-prevention-why-a-c-condensation-monsoon-spikes-grow-mold-behind-dry-walls",
+      "content_family": "answer-engine-guides",
+      "slug": "las-vegas-bathroom-mold-prevention-why-a-c-condensation-monsoon-spikes-grow-mold-behind-dry-walls",
+      "title": "Las Vegas Bathroom Mold Prevention: Why A/C Condensation + Monsoon Spikes Grow Mold Behind “Dry” Walls",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Joe Courtney_job_c8e30515935e497387f253d7c1478a69_6.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Joe Courtney_job_c8e30515935e497387f253d7c1478a69_7.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-bathroom-moisture-and-mold-prevention-rebuild-for-recurring-odor-and-surface-damage",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-bathroom-moisture-and-mold-prevention-rebuild-for-recurring-odor-and-surface-damage",
+      "title": "Las Vegas Case Study: Bathroom Moisture and Mold Prevention Rebuild for Recurring Odor and Surface Damage",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Rebecca Oliva_job_2c76917c0928467492f9b2fcbf60177b_3.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Elizabeth Kostan_job_9754302068b04152953ab9747b45b585_2.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "answer-engine-guides/fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time",
+      "content_family": "answer-engine-guides",
+      "slug": "fixing-squeaky-floors-las-vegas-how-dry-heat-shrinks-wood-and-loosens-fasteners-over-time",
+      "title": "Fixing Squeaky Floors Las Vegas: How Dry Heat Shrinks Wood and Loosens Fasteners Over Time",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Douglas Adams_job_57faedf09e9345ab98c067e9ec5819c5_2.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Douglas Adams_job_57faedf09e9345ab98c067e9ec5819c5_1.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/bathroom-condensation-in-las-vegas-why-a-dry-climate-still-grows-musty-corners",
+      "content_family": "niche-technical-guides",
+      "slug": "bathroom-condensation-in-las-vegas-why-a-dry-climate-still-grows-musty-corners",
+      "title": "Bathroom Condensation in Las Vegas: Why a Dry Climate Still Grows Musty Corners",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Rebecca Oliva_job_2c76917c0928467492f9b2fcbf60177b_2.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Jenna Koppin_job_608653cd0e08407a97260f4f4b576710_4.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "answer-engine-guides/las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after",
+      "content_family": "answer-engine-guides",
+      "slug": "las-vegas-storm-damage-repair-guide-why-monsoon-bursts-find-every-weak-seam-and-what-holds-up-after",
+      "title": "Las Vegas Storm Damage Repair Guide: Why Monsoon Bursts Find Every Weak Seam (and What Holds Up After)",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Amanda Muffoletto_job_6ce9cb01100f455caf917d7413d4e218_4.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Amanda Muffoletto_job_6ce9cb01100f455caf917d7413d4e218_7.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-exterior-trim-and-wood-rot-rebuild-after-irrigation-overspray-and-sun-damage",
+      "title": "Las Vegas Case Study: Exterior Trim and Wood Rot Rebuild After Irrigation Overspray and Sun Damage",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Christine Florie_job_9b1c704be06e47e993cc21a080d5d67c_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_15.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/stucco-splash-back-in-las-vegas-why-the-bottom-12-inches-tells-you-where-the-water-is-going",
+      "content_family": "niche-technical-guides",
+      "slug": "stucco-splash-back-in-las-vegas-why-the-bottom-12-inches-tells-you-where-the-water-is-going",
+      "title": "Stucco Splash-Back in Las Vegas: Why the Bottom 12 Inches Tells You Where the Water Is Going",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_cbd33495078242edbd8ff4cd43dc01ff_4.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_5e046093be724b40a5c02dce8acbdb3a_9.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/exterior-caulk-in-las-vegas-why-uv-and-heat-cycling-open-the-same-joint-again-and-again",
+      "content_family": "niche-technical-guides",
+      "slug": "exterior-caulk-in-las-vegas-why-uv-and-heat-cycling-open-the-same-joint-again-and-again",
+      "title": "Exterior Caulk in Las Vegas: Why UV and Heat Cycling Open the Same Joint Again and Again",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Nancy Taylor_job_a5e65a2135fd4b86ab1c5834f3bdbf91_3.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Vanessa Marks_job_ebf1bcc1a8224a57bf98b836da2806d0_1.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/desert-gutters-in-las-vegas-why-we-hardly-get-rain-is-exactly-how-overflow-damage-starts",
+      "content_family": "niche-technical-guides",
+      "slug": "desert-gutters-in-las-vegas-why-we-hardly-get-rain-is-exactly-how-overflow-damage-starts",
+      "title": "Desert Gutters in Las Vegas: Why “We Hardly Get Rain” Is Exactly How Overflow Damage Starts",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Dorothy Idziorek_job_0b2607237b94493fb8ecfe1d26a6ab04_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Jane Lee_job_9bfe8118338c4b348876347ac39b9ace_4.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-multi-room-drywall-and-ceiling-crack-repair-for-reappearing-seams",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-multi-room-drywall-and-ceiling-crack-repair-for-reappearing-seams",
+      "title": "Las Vegas Case Study: Multi-Room Drywall and Ceiling Crack Repair for Reappearing Seams",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Rebecca Oliva_job_2c76917c0928467492f9b2fcbf60177b_5.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Rebecca Oliva_job_2c76917c0928467492f9b2fcbf60177b_4.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/recurring-drywall-cracks-in-las-vegas-why-narrow-patches-fail-on-long-hallways-and-ceiling-lines",
+      "content_family": "niche-technical-guides",
+      "slug": "recurring-drywall-cracks-in-las-vegas-why-narrow-patches-fail-on-long-hallways-and-ceiling-lines",
+      "title": "Recurring Drywall Cracks in Las Vegas: Why Narrow Patches Fail on Long Hallways and Ceiling Lines",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Joe Courtney_job_c8e30515935e497387f253d7c1478a69_9.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Michael Fayle_job_92673788f4b24adda4966d3545a76c41_2.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "answer-engine-guides/best-wood-for-las-vegas-fences-cedar-redwood-or-wood-on-steel-for-a-high-ticket-build",
+      "content_family": "answer-engine-guides",
+      "slug": "best-wood-for-las-vegas-fences-cedar-redwood-or-wood-on-steel-for-a-high-ticket-build",
+      "title": "Best Wood for Las Vegas Fences: Cedar, Redwood, or Wood-on-Steel for a High-Ticket Build",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Nicki Thompson_job_f462bf1cca6f4d8186f0acbb8f5d0d4b_6.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Robert Rivera_job_e9193806f2f04440a68d2e8e26fffbe7_4.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-fence-and-gate-rebuild-after-post-movement-wind-load-and-latch-failure",
+      "title": "Las Vegas Case Study: Fence and Gate Rebuild After Post Movement, Wind Load, and Latch Failure",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marci Cox_job_c4e9c4dbdfe9459b82d231e396d63d53_13.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Leslie Bauer_job_0ceae4816e0a4257981ec51c2ea76a6c_3.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine",
+      "content_family": "niche-technical-guides",
+      "slug": "las-vegas-caliche-and-fence-posts-why-gates-go-out-of-square-even-when-the-fence-looks-fine",
+      "title": "Las Vegas Caliche and Fence Posts: Why Gates Go Out of Square Even When the Fence “Looks Fine”",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Leslie Bauer_job_0ceae4816e0a4257981ec51c2ea76a6c_12.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Leslie Bauer_job_0ceae4816e0a4257981ec51c2ea76a6c_9.jpg"
+      },
+      "hero_rationale": [
+        "manual review picked the exposed fence-post footing because it shows the exact post-and-ground failure context this caliche article is about",
+        "the hero now leads with visible structural movement context instead of an unrelated door or sky-heavy scene"
+      ],
+      "support_rationale": [
+        "manual review picked the second footing/post view to reinforce how gate and fence geometry problems start at the base",
+        "the pair stays on-topic while avoiding repeated-image content inside the article"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-monsoon-water-intrusion-repair-for-stucco-staining-soft-trim-and-interior-wall-damage",
+      "title": "Las Vegas Case Study: Monsoon Water Intrusion Repair for Stucco Staining, Soft Trim, and Interior Wall Damage",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_cbd33495078242edbd8ff4cd43dc01ff_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Shirley Mack_job_e3257aa370a844faaa874569326052f5_3.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage",
+      "content_family": "niche-technical-guides",
+      "slug": "irrigation-overspray-in-las-vegas-how-a-landscaping-detail-turns-into-trim-rot-and-wall-damage",
+      "title": "Irrigation Overspray in Las Vegas: How a Landscaping Detail Turns Into Trim Rot and Wall Damage",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Leslie Bauer_job_0ceae4816e0a4257981ec51c2ea76a6c_13.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Vanessa Marks_job_ebf1bcc1a8224a57bf98b836da2806d0_2.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work",
+      "content_family": "suburb-pages",
+      "slug": "summerlin-west-handyman-high-ticket-repair-packages-for-sun-blasted-exteriors-trim-and-finish-work",
+      "title": "Summerlin West Handyman: High-Ticket Repair Packages for Sun-Blasted Exteriors, Trim, and Finish Work",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_5.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_2.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "answer-engine-guides/why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it",
+      "content_family": "answer-engine-guides",
+      "slug": "why-doors-stick-in-las-vegas-caliche-ground-shifts-heat-swells-frames-and-what-actually-fixes-it",
+      "title": "Why Doors Stick in Las Vegas: Caliche Ground Shifts + Heat Swells Frames (and What Actually Fixes It)",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marci Cox_job_75638105e64743efa1dd82f549364f2c_15.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Aaron Gomez_job_403a81eef9de41d78e793ed9dc00105b_3.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-pre-listing-repair-package-for-cracks-sticky-doors-and-exterior-wear",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-pre-listing-repair-package-for-cracks-sticky-doors-and-exterior-wear",
+      "title": "Las Vegas Case Study: Pre-Listing Repair Package for Cracks, Sticky Doors, and Exterior Wear",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Karen Fox_job_90de8480924d48b29cb1f9ff96fc1c98_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Thomas Hontz_job_4ad178115cfb45669a3a071b9957a383_3.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-rental-turnover-reset-for-walls-doors-hardware-and-safety-items",
+      "title": "Las Vegas Case Study: Rental Turnover Reset for Walls, Doors, Hardware, and Safety Items",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marci Cox_job_c4e9c4dbdfe9459b82d231e396d63d53_21.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Kerry O_donnell_job_5ae4e2f852a6476586437086ed03c514_2.jpg"
+      },
+      "hero_rationale": [
+        "manual review picked the threshold and floor-detail shot because it matches the mixed doors-and-hardware reset scope in a turnover job",
+        "the hero now reads like real turnover correction work instead of a reused duplicate frame"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-smart-home-and-entry-upgrade-with-door-alignment-strike-correction-and-finish-cleanup",
+      "title": "Las Vegas Case Study: Smart Home and Entry Upgrade with Door Alignment, Strike Correction, and Finish Cleanup",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Keith Davies_job_4619e598cf7c4eb486c8e3c43e54154b_4.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Karen Fox_job_0b80a457732c4513bbec04ffe9876164_7.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim",
+      "title": "Las Vegas Case Study: Outdoor Living Refresh for Faded Decking, Rough Wood, and Sun-Blasted Trim",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marci Cox_job_c4e9c4dbdfe9459b82d231e396d63d53_6.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marci Cox_job_75638105e64743efa1dd82f549364f2c_13.jpg"
+      },
+      "hero_rationale": [
+        "manual review picked the weathered wood and decking close-up because it fits the faded outdoor-living surface problem directly",
+        "the hero now shows sun-beaten material condition instead of reusing an unrelated duplicate frame"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-whole-house-alignment-and-hardware-reset-for-doors-sliders-and-interior-function-problems",
+      "title": "Las Vegas Case Study: Whole-House Alignment and Hardware Reset for Doors, Sliders, and Interior Function Problems",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Leslie Bauer_job_0ceae4816e0a4257981ec51c2ea76a6c_17.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Jayden Stevens_job_1532b2c876da473da1cffbb9785d636b_2.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers",
+      "content_family": "niche-technical-guides",
+      "slug": "west-facing-doors-in-las-vegas-why-afternoon-heat-wrecks-reveals-latches-and-closers",
+      "title": "West-Facing Doors in Las Vegas: Why Afternoon Heat Wrecks Reveals, Latches, and Closers",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marci Cox_job_75638105e64743efa1dd82f549364f2c_6.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Nicki Thompson_job_f462bf1cca6f4d8186f0acbb8f5d0d4b_11.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/summerlin-north-handyman-high-ticket-home-repair-for-doors-walls-trim-and-exterior-wear",
+      "content_family": "suburb-pages",
+      "slug": "summerlin-north-handyman-high-ticket-home-repair-for-doors-walls-trim-and-exterior-wear",
+      "title": "Summerlin North Handyman: High-Ticket Home Repair for Doors, Walls, Trim, and Exterior Wear",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Thomas Hontz_job_4ad178115cfb45669a3a071b9957a383_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Nicki Thompson_job_f462bf1cca6f4d8186f0acbb8f5d0d4b_10.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/rancho-handyman-high-ticket-repair-packages-for-older-las-vegas-homes-trim-walls-and-doors",
+      "content_family": "suburb-pages",
+      "slug": "rancho-handyman-high-ticket-repair-packages-for-older-las-vegas-homes-trim-walls-and-doors",
+      "title": "Rancho Handyman: High-Ticket Repair Packages for Older Las Vegas Homes, Trim, Walls, and Doors",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Katharine Teuschler_job_c97be18f669042b883bb52c3fd66e40f_2.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Rob Stucker_job_0039ed8d9946405e897ac182104b2b99_1.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "case-studies/las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings",
+      "content_family": "case-studies",
+      "slug": "las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings",
+      "title": "Las Vegas Case Study: Luxury Punch-List and Finish Correction Before Photos and Showings",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marci Cox_job_c4e9c4dbdfe9459b82d231e396d63d53_22.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_5e046093be724b40a5c02dce8acbdb3a_12.jpg"
+      },
+      "hero_rationale": [
+        "manual review picked the polished entry view because this case study is about presentation, finish correction, and showing-ready curb appeal",
+        "the hero now gives premium property context without reusing the same gate image already locked to another article"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/lone-mountain-handyman-high-ticket-repair-packages-for-long-exterior-runs-gates-and-finish-work-that-shows",
+      "content_family": "suburb-pages",
+      "slug": "lone-mountain-handyman-high-ticket-repair-packages-for-long-exterior-runs-gates-and-finish-work-that-shows",
+      "title": "Lone Mountain Handyman: High-Ticket Repair Packages for Long Exterior Runs, Gates, and Finish Work That Shows",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Robert Rivera_job_e9193806f2f04440a68d2e8e26fffbe7_5.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Robert Rivera_job_e9193806f2f04440a68d2e8e26fffbe7_3.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/angel-park-handyman-high-ticket-repair-packages-for-west-side-homes-gates-trim-and-finish-work",
+      "content_family": "suburb-pages",
+      "slug": "angel-park-handyman-high-ticket-repair-packages-for-west-side-homes-gates-trim-and-finish-work",
+      "title": "Angel Park Handyman: High-Ticket Repair Packages for West-Side Homes, Gates, Trim, and Finish Work",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Robert Rivera_job_e9193806f2f04440a68d2e8e26fffbe7_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Robert Rivera_job_e9193806f2f04440a68d2e8e26fffbe7_6.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/desert-shores-handyman-high-ticket-repair-packages-for-lakefront-wear-gates-trim-and-finish-work",
+      "content_family": "suburb-pages",
+      "slug": "desert-shores-handyman-high-ticket-repair-packages-for-lakefront-wear-gates-trim-and-finish-work",
+      "title": "Desert Shores Handyman: High-Ticket Repair Packages for Lakefront Wear, Gates, Trim, and Finish Work",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Robert Rivera_job_e9193806f2f04440a68d2e8e26fffbe7_2.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Michael Fayle_job_92673788f4b24adda4966d3545a76c41_3.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "answer-engine-guides/las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet",
+      "content_family": "answer-engine-guides",
+      "slug": "las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet",
+      "title": "Las Vegas Pre-Listing Checklist: The High-Ticket Fixes That Keep Showings Clean and Inspections Quiet",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Aaron Gomez_job_403a81eef9de41d78e793ed9dc00105b_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Amanda Muffoletto_job_6ce9cb01100f455caf917d7413d4e218_3.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst",
+      "content_family": "niche-technical-guides",
+      "slug": "freeze-nights-in-las-vegas-why-garage-walls-hose-bibs-and-exterior-runs-still-burst",
+      "title": "Freeze Nights in Las Vegas: Why Garage Walls, Hose Bibs, and Exterior Runs Still Burst",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Katharine Teuschler_job_c97be18f669042b883bb52c3fd66e40f_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Theresa Villella_job_6c96de4aa3db41379f4e7a06cf21a292_5.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "niche-technical-guides/attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast",
+      "content_family": "niche-technical-guides",
+      "slug": "attic-heat-and-smart-devices-in-las-vegas-why-cheap-power-supplies-and-bad-mounting-go-flaky-fast",
+      "title": "Attic Heat and Smart Devices in Las Vegas: Why Cheap Power Supplies and Bad Mounting Go Flaky Fast",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marilyn Punzalan_job_0993f93ca8eb45c385e2f5f633d552e6_9.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Nancy Taylor_job_a5e65a2135fd4b86ab1c5834f3bdbf91_5.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "answer-engine-guides/las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley",
+      "content_family": "answer-engine-guides",
+      "slug": "las-vegas-handyman-cost-guide-2026-what-high-ticket-projects-really-cost-in-the-valley",
+      "title": "Las Vegas Handyman Cost Guide (2026): What High-Ticket Projects Really Cost in the Valley",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Stoney Irvine_job_4e2591f95dc04122a733aa3edc61c543_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Amanda Muffoletto_job_6ce9cb01100f455caf917d7413d4e218_2.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "answer-engine-guides/licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license",
+      "content_family": "answer-engine-guides",
+      "slug": "licensed-vs-unlicensed-handyman-in-nevada-when-a-las-vegas-big-job-needs-a-real-license",
+      "title": "Licensed vs. Unlicensed Handyman in Nevada: When a Las Vegas “Big Job” Needs a Real License",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Nikolay Genov_job_9e0f7cdbdb0f49078d4809250e0519bf_3.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Amanda Muffoletto_job_6ce9cb01100f455caf917d7413d4e218_6.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear",
+      "content_family": "suburb-pages",
+      "slug": "summerlin-south-handyman-high-ticket-repair-packages-for-luxury-homes-tight-finishes-and-desert-wear",
+      "title": "Summerlin South Handyman: High-Ticket Repair Packages for Luxury Homes, Tight Finishes, and Desert Wear",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_6.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Elizabeth Kostan_job_9754302068b04152953ab9747b45b585_4.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/queensridge-handyman-high-ticket-repair-work-for-luxury-finishes-entry-systems-and-exterior-wear",
+      "content_family": "suburb-pages",
+      "slug": "queensridge-handyman-high-ticket-repair-work-for-luxury-finishes-entry-systems-and-exterior-wear",
+      "title": "Queensridge Handyman: High-Ticket Repair Work for Luxury Finishes, Entry Systems, and Exterior Wear",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_cbd33495078242edbd8ff4cd43dc01ff_10.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_14.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/downtown-las-vegas-handyman-high-ticket-repair-packages-for-historic-homes-urban-properties-and-finish-work-that-shows",
+      "content_family": "suburb-pages",
+      "slug": "downtown-las-vegas-handyman-high-ticket-repair-packages-for-historic-homes-urban-properties-and-finish-work-that-shows",
+      "title": "Downtown Las Vegas Handyman: High-Ticket Repair Packages for Historic Homes, Urban Properties, and Finish Work That Shows",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_13.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_5e046093be724b40a5c02dce8acbdb3a_1.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    },
+    {
+      "article_id": "suburb-pages/centennial-hills-handyman-high-ticket-repair-packages-for-bigger-homes-exterior-wear-and-whole-house-punch-lists",
+      "content_family": "suburb-pages",
+      "slug": "centennial-hills-handyman-high-ticket-repair-packages-for-bigger-homes-exterior-wear-and-whole-house-punch-lists",
+      "title": "Centennial Hills Handyman: High-Ticket Repair Packages for Bigger Homes, Exterior Wear, and Whole-House Punch Lists",
+      "hero_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Rebecca Oliva_job_2c76917c0928467492f9b2fcbf60177b_1.jpg"
+      },
+      "support_image": {
+        "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_5e046093be724b40a5c02dce8acbdb3a_4.jpg"
+      },
+      "hero_rationale": [
+        "topic-first selection used a local vision model to rank the full Las Vegas work-photo library against the article topic",
+        "the hero now leads with the strongest visible repair-context match instead of generic skyline or filler scenery"
+      ],
+      "support_rationale": [
+        "support image was re-ranked against the same article intent to provide a second relevant repair view",
+        "the final pair favors topic fit first while still keeping the page visually grounded in real Las Vegas project photos"
+      ],
+      "locked": true
+    }
+  ]
+}

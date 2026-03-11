@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "role": "hero",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_6.jpg",
+      "exif_title": "Summerlin South Handyman: High-Ticket Repair Packages for Luxury Homes, Tight Finishes, and Desert Wear project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the hero image for the article Summerlin South Handyman: High-Ticket Repair Packages for Luxury Homes, Tight Finishes, and Desert Wear.",
+      "alt_text": "Primary job-site repair detail from a Local Handyman project in Las Vegas related to home repair work.",
+      "caption": "Local project detail anchoring this home repair work guide.",
+      "keywords": [
+        "home repair work",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    },
+    {
+      "role": "support",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Elizabeth Kostan_job_9754302068b04152953ab9747b45b585_4.jpg",
+      "exif_title": "Summerlin South Handyman: High-Ticket Repair Packages for Luxury Homes, Tight Finishes, and Desert Wear project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the support image for the article Summerlin South Handyman: High-Ticket Repair Packages for Luxury Homes, Tight Finishes, and Desert Wear.",
+      "alt_text": "Additional job-site repair detail from a Local Handyman project in Las Vegas related to home repair work.",
+      "caption": "Additional Las Vegas project detail supporting this home repair work guide.",
+      "keywords": [
+        "home repair work",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    }
+  ]
+}

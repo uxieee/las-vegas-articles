@@ -1,0 +1,122 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Case Study: Luxury Punch-List and Finish Correction Before Photos and Showings",
+    "description": "We see this a lot in premium neighborhoods where the details do all the talking. One reveal is off, one patch flashes through the paint, one gate drags",
+    "abstract": "We see this a lot in premium neighborhoods where the details do all the talking. One reveal is off, one patch flashes through the paint, one gate drags, one trim line looks wavy",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/06e89abe-3ccc-4203-b279-db52c7fa10d2.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/7690705f-44f7-4c4b-b3c0-9524794c3474.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-case-study-luxury-punch-list-and-finish-correction-before-photos-and-showings",
+    "datePublished": "2026-02-25",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "home repair case study"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas case study"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why bundle everything instead of fixing items one by one?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because the house gets evaluated as a whole, and bundled work keeps the finish quality consistent."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What usually matters most before listing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Doors, wall finishes, trim details, and exterior water/stain issues that show up in photos."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this high-ticket?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Multiple rooms, visible finish work, and enough exterior detail work to affect first impression."
+        }
+      }
+    ]
+  }
+]

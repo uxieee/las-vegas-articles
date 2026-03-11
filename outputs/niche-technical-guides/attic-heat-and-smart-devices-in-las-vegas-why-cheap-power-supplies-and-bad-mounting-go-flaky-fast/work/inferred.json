@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Attic Heat and Smart Devices : Why Cheap Power Supplies and Bad Mounting Go Flaky Fast",
+  "excerpt": "We see this with video doorbells, smart locks, outdoor cameras, garage accessories, and low-voltage gear tied into hot attic or exterior-adjacent runs. The homeowner thinks the device is defective because it drops offline, acts inconsistent, or burns through accessories faster than expected. A lot of the time, the real culprits are weak power delivery, rough mounting, door misalignment, hot locations, or sloppy exterior detailing that lets weather work the install. The higher-ticket version of this job is not \u201cswap one device.\u201d It is entry correction, power-path sanity, mounting block/detail work, weather sealing, and device placement so the system behaves like part of the house instead of a toy stuck on it.",
+  "faq_pairs": [
+    {
+      "question": "Is the heat really enough to affect device reliability?",
+      "answer": "Yes. The local climate profile makes clear that summer heat and monsoon-season exposure are meaningful stresses on exterior-facing assemblies."
+    },
+    {
+      "question": "Why bundle device work with door or trim work?",
+      "answer": "Because entry geometry, mounting quality, and weather detailing often decide whether the device works consistently."
+    },
+    {
+      "question": "What makes this high-ticket?",
+      "answer": "When the project includes multiple devices plus correction of the house-side conditions causing the failures."
+    }
+  ],
+  "markdown_tables": [
+    "| Technical symptom | What it usually means | When it becomes a bigger job |\n| ----- | ----- | ----- |\n| Doorbell/camera drops offline in heat | Heat + power path + mount location issue | Full entry/device correction package |\n| Smart lock acts inconsistent | Door geometry is fighting the hardware | Entry alignment + smart install |\n| Exterior camera mount loosens | Substrate/detailing is weak | Rebuild mount + reseal |\n| Devices work fine in cool season only | Thermal load is exposing weak install choices | Project-wide device/location reset |\n| Multiple entry devices misbehave | House-side issues, not one gadget | Bundled smart-home hardening scope |"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "page_type": "faq_page",
+  "faq_present": true,
+  "table_present": true,
+  "topic": "Las Vegas Case Study: Bathroom Moisture and Mold Prevention Rebuild for Recurring Odor and Surface Damage",
+  "excerpt": "Vegas bathrooms fool people. The city is dry, so they assume mold or repeated mildew must be a housekeeping issue, when a lot of the time it\u2019s trapped moisture, weak fan performance, sweating lines, or moisture getting behind finishes and staying there. On this project, the symptoms were subtle at first: recurring spotting, soft paint near one lower wall, and that damp smell that never fully left after cleaning. The bigger-ticket scope came from opening the problem area, correcting the moisture conditions, rebuilding the compromised sections, and improving the bathroom\u2019s ability to dry out after use. We see this all the time\u2014surface cleaning buys time, but the real fix is changing the moisture behavior.",
+  "faq_pairs": [
+    {
+      "question": "Why is mold or mildew a thing here at all?",
+      "answer": "Bathrooms make their own humidity, and cold surfaces plus weak ventilation can trap that moisture indoors."
+    },
+    {
+      "question": "Is repainting enough?",
+      "answer": "Not on bigger recurring problems. If the material or moisture behavior is wrong, the spots usually come back."
+    },
+    {
+      "question": "What makes this a high-ticket job?",
+      "answer": "When it includes opening walls or finishes, rebuilding wet areas, and improving ventilation or moisture control."
+    }
+  ],
+  "markdown_tables": [
+    "| Case study snapshot | What was going on | How the scope was handled |\n| ----- | ----- | ----- |\n| Ventilation | Moist air lingering too long after showers | Upgraded/optimized exhaust approach |\n| Wet-zone finishes | Recurring spotting and soft surface areas | Removed weak material and rebuilt affected sections |\n| Condensation points | Persistent moisture at specific cold surfaces | Corrected localized moisture contributors |\n| Odor issue | Musty smell returning after cleaning | Addressed source conditions, not just surface treatment |\n| Homeowner goal | Stop the repeat cycle for good | Scoped as a prevention-focused rebuild package |"
+  ]
+}

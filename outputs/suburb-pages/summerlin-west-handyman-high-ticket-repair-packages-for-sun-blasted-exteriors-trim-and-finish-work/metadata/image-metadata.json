@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "role": "hero",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_5.jpg",
+      "exif_title": "Summerlin West Handyman: High-Ticket Repair Packages for Sun-Blasted Exteriors, Trim, and Finish Work project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the hero image for the article Summerlin West Handyman: High-Ticket Repair Packages for Sun-Blasted Exteriors, Trim, and Finish Work.",
+      "alt_text": "Primary job-site repair detail from a Local Handyman project in Las Vegas related to trim repair.",
+      "caption": "Local project detail anchoring this trim repair guide.",
+      "keywords": [
+        "trim repair",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    },
+    {
+      "role": "support",
+      "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Ellile Brim_job_ff717f0b6cd94ed38e6a605ed9a9a6bb_2.jpg",
+      "exif_title": "Summerlin West Handyman: High-Ticket Repair Packages for Sun-Blasted Exteriors, Trim, and Finish Work project detail in Las Vegas",
+      "exif_description": "Local Handyman project detail from a Las Vegas property used as the support image for the article Summerlin West Handyman: High-Ticket Repair Packages for Sun-Blasted Exteriors, Trim, and Finish Work.",
+      "alt_text": "Additional job-site repair detail from a Local Handyman project in Las Vegas related to trim repair.",
+      "caption": "Additional Las Vegas project detail supporting this trim repair guide.",
+      "keywords": [
+        "trim repair",
+        "Las Vegas handyman",
+        "local repair project"
+      ],
+      "tags": [
+        "Las Vegas",
+        "repair project",
+        "Local Handyman"
+      ]
+    }
+  ]
+}

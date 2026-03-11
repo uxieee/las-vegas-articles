@@ -1,0 +1,130 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Case Study: Outdoor Living Refresh for Faded Decking, Rough Wood, and Sun-Blasted Trim",
+    "description": "We see this all the time on decks, patio trim, gates, and outdoor wood features that have taken years of UV, heat cycling, and uneven wetting",
+    "abstract": "We see this all the time on decks, patio trim, gates, and outdoor wood features that have taken years of UV, heat cycling, and uneven wetting. One corner stays damp from overspray or runoff, the rest gets baked dry",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/5f7585b0-fcfb-4a2c-b2a7-034bee19cf35.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/d1673e50-82a9-4c53-9433-209b692fa3d8.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-case-study-outdoor-living-refresh-for-faded-decking-rough-wood-and-sun-blasted-trim",
+    "datePublished": "2026-03-09",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "door repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      },
+      {
+        "@type": "Thing",
+        "name": "wood-on-steel framing"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "hinge and strike adjustment"
+      },
+      {
+        "@type": "Thing",
+        "name": "wood-on-steel framing"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why do outdoor wood surfaces get so rough here?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Heat, UV, and moisture swings lift fibers and crack the grain over time."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you just re-stain over it?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Not on bigger failures. The surface has to be cleaned, prepped, and sometimes rebuilt before a new finish has a chance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes this high-ticket?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Multiple surfaces, prep-intensive work, rebuild sections, and finish integration across the whole area."
+        }
+      }
+    ]
+  }
+]

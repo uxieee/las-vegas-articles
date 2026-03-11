@@ -1,0 +1,19 @@
+{
+  "mode": "manual",
+  "hero_image": {
+    "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/Marci Cox_job_c4e9c4dbdfe9459b82d231e396d63d53_22.jpg"
+  },
+  "support_image": {
+    "source_path": "/Users/uxie/Documents/Vibe Code/Local Handyman/AEO/Las Vegas/photos/arnold ardevela_job_5e046093be724b40a5c02dce8acbdb3a_12.jpg"
+  },
+  "rationale": {
+    "hero_image": [
+      "manual review picked the polished entry view because this case study is about presentation, finish correction, and showing-ready curb appeal",
+      "the hero now gives premium property context without reusing the same gate image already locked to another article"
+    ],
+    "support_image": [
+      "support image was chosen as the strongest complementary project photo for the same topic",
+      "the pair avoids generic skyline filler and keeps the article grounded in real repair visuals"
+    ]
+  }
+}

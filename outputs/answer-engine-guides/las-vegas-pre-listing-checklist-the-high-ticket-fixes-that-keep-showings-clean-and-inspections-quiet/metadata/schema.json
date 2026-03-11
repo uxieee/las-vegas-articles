@@ -1,0 +1,146 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Las Vegas Pre-Listing Checklist: The High-Ticket Fixes That Keep Showings Clean and Inspections Quiet",
+    "description": "Las Vegas sits on shallow, well-drained, loamy soils with a petrocalcic (caliche) layer, so small movement can show up as door drift, corner cracks",
+    "abstract": "Las Vegas sits on shallow, well-drained, loamy soils with a petrocalcic (caliche) layer, so small movement can show up as door drift, corner cracks, and fence/gate alignment\u2014exactly the stuff buyers notice the second they touch an",
+    "image": [
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/050a76ab-38eb-46d1-9105-767cb99639d5.jpg",
+      "https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/61f57748-3c07-4a6b-9216-b53613e08fa1.jpg"
+    ],
+    "mainEntityOfPage": "https://localhandyman.com/lasvegas/las-vegas-pre-listing-checklist-the-high-ticket-fixes-that-keep-showings-clean-and-inspections-quiet",
+    "datePublished": "2026-03-08",
+    "articleSection": [
+      "Frequently Asked Questions",
+      "Related Guides You Might Find Helpful",
+      "Cost and Scope Table"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "home repair guide"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "pre-listing repairs"
+      },
+      {
+        "@type": "Thing",
+        "name": "homeowner repair guidance"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Las Vegas"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nevada"
+      },
+      {
+        "@type": "Thing",
+        "name": "Las Vegas repair"
+      },
+      {
+        "@type": "Thing",
+        "name": "pre-listing repairs"
+      },
+      {
+        "@type": "Thing",
+        "name": "homeowner repair guidance"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Local Handyman Las Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Handyman Las Vegas",
+    "url": "https://localhandyman.com/lasvegas",
+    "telephone": "(702) 766-7228",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "732 South 6th Street 4523",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "Nevada",
+      "postalCode": "89101",
+      "addressCountry": "USA"
+    },
+    "areaServed": [
+      "Summerlin North",
+      "Summerlin South",
+      "Summerlin West",
+      "Queensridge",
+      "Centennial Hills",
+      "Lone Mountain",
+      "Angel Park",
+      "Desert Shores",
+      "Rancho",
+      "Downtown Las Vegas"
+    ],
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/ZsBUSW0nlx5d5Mjpk3ph/media/675af3438d3fea52d8157c18.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What fixes move the needle most for showings?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Doors that close clean, consistent wall finishes (no patch halos), and exterior water control (no stains/splash-back lines)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why do patches \u201cshow\u201d so badly in Vegas?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Heat cycling and strong sunlight make texture/prime mismatches obvious\u2014especially down long hallways."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What\u2019s the \\#1 inspection headache here?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Water paths that *look* minor\u2014gutter overflow, discharge too close to the slab, or gaps at trim\u2014because monsoon bursts expose them fast."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you keep a pre-list scope from ballooning?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Bundle by system (water control, alignment, finishes), set clear boundaries, and plan a second \u201cwalk-through pass\u201d at the end."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What\u2019s the most common \u201cVegas tell\u201d buyers notice?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Doors/gates that don\u2019t latch smoothly and exterior staining\u2014little function problems that suggest bigger ones."
+        }
+      }
+    ]
+  }
+]
